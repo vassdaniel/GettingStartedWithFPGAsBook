@@ -1,0 +1,4 @@
+@E: CD126 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\chapter2\chapter2.vhdl":14:4:14:4|Expecting identifier
+@E: CD632 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\chapter2\chapter2.vhdl":15:27:15:27|duplicate entity name switches_to_leds
+@E: Parse errors encountered - exiting
+
