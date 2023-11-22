@@ -17,9 +17,9 @@
 				<BScanLen>1</BScanLen>
 				<BScanVal>0</BScanVal>
 			</Bypass>
-			<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/chapter2/Project1_Switches_And_LEDs/Project1_Switches_And_LEDs_Implmnt/sbt/outputs/bitmap/Switches_To_LEDs_bitmap.bin</File>
-			<FileTime>11/22/23 19:29:42</FileTime>
-			<JedecChecksum>0xACFC</JedecChecksum>
+			<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project2/Project2_And_Gate/Project2_And_Gate_Implmnt/sbt/outputs/bitmap/And_Gate_Project_bitmap.bin</File>
+			<FileTime>11/22/23 20:39:20</FileTime>
+			<JedecChecksum>0xADF9</JedecChecksum>
 			<Operation>SPI Flash Erase,Program,Verify</Operation>
 			<Option>
 				<SVFVendor>JTAG STANDARD</SVFVendor>
@@ -45,7 +45,7 @@
 					<Option>
 						<SVFVendor>JTAG STANDARD</SVFVendor>
 						<IOState>HighZ</IOState>
-						<IOVectorData>0-E</IOVectorData>
+						<IOVectorData>0EQ</IOVectorData>
 						<AccessMode>JTAG</AccessMode>
 					</Option>
 				</Device>
@@ -59,7 +59,7 @@
 					<IDCode>0x10</IDCode>
 					<Package>8-pin SOIC</Package>
 					<Operation>SPI Flash Erase,Program,Verify</Operation>
-					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/chapter2/Project1_Switches_And_LEDs/Project1_Switches_And_LEDs_Implmnt/sbt/outputs/bitmap/Switches_To_LEDs_bitmap.bin</File>
+					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project2/Project2_And_Gate/Project2_And_Gate_Implmnt/sbt/outputs/bitmap/And_Gate_Project_bitmap.bin</File>
 					<AddressBase>0x00000000</AddressBase>
 					<EndAddress>0x00008000</EndAddress>
 					<DeviceSize>1</DeviceSize>
@@ -72,11 +72,11 @@
 				<Device>
 					<Pos>1</Pos>
 					<Name></Name>
-					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/chapter2/Project1_Switches_And_LEDs/Project1_Switches_And_LEDs_Implmnt/sbt/outputs/bitmap/Switches_To_LEDs_bitmap.bin</File>
+					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project2/Project2_And_Gate/Project2_And_Gate_Implmnt/sbt/outputs/bitmap/And_Gate_Project_bitmap.bin</File>
 					<LocalChainList>
 						<LocalDevice index="-99"
 							name="Unknown"
-							file="D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/chapter2/Project1_Switches_And_LEDs/Project1_Switches_And_LEDs_Implmnt/sbt/outputs/bitmap/Switches_To_LEDs_bitmap.bin"/>
+							file="D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project2/Project2_And_Gate/Project2_And_Gate_Implmnt/sbt/outputs/bitmap/And_Gate_Project_bitmap.bin"/>
 					</LocalChainList>
 					<Option>
 						<SVFVendor>JTAG STANDARD</SVFVendor>

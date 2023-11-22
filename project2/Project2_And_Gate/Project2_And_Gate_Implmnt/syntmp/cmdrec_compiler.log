@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_comp.srs  -hdllog  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synlog\Project2_And_Gate_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\project2.vhdl 
+rc:0 success:1 runtime:2
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_comp.srs|io:o|time:1700681940|size:1586|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synlog\Project2_And_Gate_compiler.srr|io:o|time:1700681940|size:2794|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\project2.vhdl|io:i|time:1700681766|size:324|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1699113081|size:1338368|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1699113082|size:1754112|exec:1
