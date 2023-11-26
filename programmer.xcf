@@ -17,12 +17,13 @@
 				<BScanLen>1</BScanLen>
 				<BScanVal>0</BScanVal>
 			</Bypass>
-			<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project2/Project2_And_Gate/Project2_And_Gate_Implmnt/sbt/outputs/bitmap/And_Gate_Project_bitmap.bin</File>
-			<FileTime>11/22/23 20:39:20</FileTime>
-			<JedecChecksum>0xADF9</JedecChecksum>
+			<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project3/Project3_LED_Toggle/Project3_LED_Toggle_Implmnt/sbt/outputs/bitmap/LED_Toggle_bitmap.bin</File>
+			<FileTime>11/26/23 12:05:05</FileTime>
+			<JedecChecksum>0xAD48</JedecChecksum>
 			<Operation>SPI Flash Erase,Program,Verify</Operation>
 			<Option>
 				<SVFVendor>JTAG STANDARD</SVFVendor>
+				<SVFProcessor>SVF Processor</SVFProcessor>
 				<AccessMode>SPI Flash Programming</AccessMode>
 			</Option>
 			<FPGALoader>
@@ -46,6 +47,7 @@
 						<SVFVendor>JTAG STANDARD</SVFVendor>
 						<IOState>HighZ</IOState>
 						<IOVectorData>0EQ</IOVectorData>
+						<SVFProcessor>SVF Processor</SVFProcessor>
 						<AccessMode>JTAG</AccessMode>
 					</Option>
 				</Device>
@@ -59,7 +61,7 @@
 					<IDCode>0x10</IDCode>
 					<Package>8-pin SOIC</Package>
 					<Operation>SPI Flash Erase,Program,Verify</Operation>
-					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project2/Project2_And_Gate/Project2_And_Gate_Implmnt/sbt/outputs/bitmap/And_Gate_Project_bitmap.bin</File>
+					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project3/Project3_LED_Toggle/Project3_LED_Toggle_Implmnt/sbt/outputs/bitmap/LED_Toggle_bitmap.bin</File>
 					<AddressBase>0x00000000</AddressBase>
 					<EndAddress>0x00008000</EndAddress>
 					<DeviceSize>1</DeviceSize>
@@ -80,6 +82,7 @@
 					</LocalChainList>
 					<Option>
 						<SVFVendor>JTAG STANDARD</SVFVendor>
+						<SVFProcessor>SVF Processor</SVFProcessor>
 					</Option>
 				</Device>
 			</FPGADevice>

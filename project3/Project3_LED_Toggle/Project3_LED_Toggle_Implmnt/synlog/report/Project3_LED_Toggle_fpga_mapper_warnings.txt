@@ -1,0 +1,2 @@
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project3\project3.vhdl":15:39:15:41|User-specified initial value defined for instance r_LED_1 is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project3\project3.vhdl":21:8:21:9|User-specified initial value defined for instance r_Switch_1 is being ignored. 
