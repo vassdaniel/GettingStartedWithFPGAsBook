@@ -4,7 +4,7 @@ Version=Lattice Semiconductor Corporation iCEcube - Release: 2020.12.27943 - Bui
 ProjectName=Project1_Switches_And_LEDs
 Vendor=SiliconBlue
 Synthesis=synplify
-ProjectVFiles=../project.vhdl
+ProjectVFiles=../project.vhdl=work
 ProjectCFiles=
 CurImplementation=Project1_Switches_And_LEDs_Implmnt
 Implementations=Project1_Switches_And_LEDs_Implmnt
@@ -25,7 +25,7 @@ DesignCell=Switches_To_LEDs
 SynthesisSDCFile=Project1_Switches_And_LEDs_Implmnt/Project1_Switches_And_LEDs.scf
 UserPinConstraintFile=
 UserSDCFile=
-PhysicalConstraintFile=../project1.pcf
+PhysicalConstraintFile=../../Go_Board_Pin_Constraints.pcf
 BackendImplPathName=
 Devicevoltage=1.14
 DevicevoltagePerformance=+/-5%(datasheet default)

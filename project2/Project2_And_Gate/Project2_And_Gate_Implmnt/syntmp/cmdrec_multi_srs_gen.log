@@ -1,7 +1,7 @@
 C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_comp.srs  -osyn  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_mult.srs  -log  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synlog\Project2_And_Gate_multi_srs_gen.srr 
 rc:0 success:1 runtime:0
-file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_comp.srs|io:i|time:1700681940|size:1586|exec:0
-file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_mult.srs|io:o|time:1700681941|size:1360|exec:0
-file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synlog\Project2_And_Gate_multi_srs_gen.srr|io:o|time:1700681941|size:735|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_comp.srs|io:i|time:1702497140|size:1584|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synwork\Project2_And_Gate_mult.srs|io:o|time:1702497141|size:1357|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_Implmnt\synlog\Project2_And_Gate_multi_srs_gen.srr|io:o|time:1702497141|size:900|exec:0
 file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1699113082|size:3128320|exec:1
 file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1699113083|size:3947520|exec:1

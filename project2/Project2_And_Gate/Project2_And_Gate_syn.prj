@@ -1,8 +1,8 @@
 #-- Synopsys, Inc.
 #-- Project file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\Project2_And_Gate\Project2_And_Gate_syn.prj
 #project files
-add_file -vhdl -lib work "../project2.vhdl"
 
+add_file -vhdl -lib work "../project2.vhdl" 
 #implementation: "Project2_And_Gate_Implmnt"
 impl -add Project2_And_Gate_Implmnt -type fpga
 
@@ -52,5 +52,5 @@ set_option -write_apr_constraint 1
 project -result_format "edif"
 project -result_file ./Project2_And_Gate_Implmnt/Project2_And_Gate.edf
 project -log_file "./Project2_And_Gate_Implmnt/Project2_And_Gate.srr"
-impl -active "Project2_And_Gate_Implmnt"
+impl -active Project2_And_Gate_Implmnt
 project -run synthesis -clean

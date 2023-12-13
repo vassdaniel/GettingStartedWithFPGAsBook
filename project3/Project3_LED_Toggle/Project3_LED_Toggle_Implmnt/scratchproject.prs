@@ -4,7 +4,7 @@
 
 #project files
 add_file -vhdl -lib work "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project3/project3.vhdl"
-add_file -constraint "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project3/project3.sdc"
+add_file -constraint "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Clock_Constraint.sdc"
 
 
 

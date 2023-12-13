@@ -8,16 +8,22 @@ Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys softwa
 
 @N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
 @N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\project2.vhdl":4:7:4:22|Top entity is set to And_Gate_Project.
+
+File Dependency file is up to date.  It will not be rewritten.
+
 VHDL syntax check successful!
+
+Compiler output is up to date.  No re-compile necessary
+
 @N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project2\project2.vhdl":4:7:4:22|Synthesizing work.and_gate_project.rtl.
 Post processing for work.and_gate_project.rtl
 
-At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 69MB peak: 70MB)
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 68MB peak: 69MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Wed Nov 22 20:39:00 2023
+# Wed Dec 13 20:52:20 2023
 
 ###########################################################]
 Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
@@ -30,7 +36,7 @@ At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Wed Nov 22 20:39:00 2023
+# Wed Dec 13 20:52:20 2023
 
 ###########################################################]
 @END
@@ -40,6 +46,6 @@ At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Wed Nov 22 20:39:00 2023
+# Wed Dec 13 20:52:20 2023
 
 ###########################################################]

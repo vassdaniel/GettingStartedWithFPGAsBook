@@ -6,7 +6,7 @@
 
 * Build Date:         Dec  9 2020 17:31:51
 
-* File Generated:     Nov 22 2023 19:42:37
+* File Generated:     Dec 13 2023 20:53:07
 
 * Purpose:            General info of design implementation
 
@@ -83,7 +83,7 @@ Detailed I/O Info:
 Router Summary:
 ---------------
     Status:  Successful
-    Runtime: 3 seconds
+    Runtime: 1 seconds
 
 Routing Resource Utilization:
 -----------------------------

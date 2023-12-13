@@ -8,18 +8,22 @@ Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys softwa
 
 @N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
 @N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\project.vhdl":4:7:4:22|Top entity is set to Switches_To_LEDs.
-Options changed - recompiling
+
+File Dependency file is up to date.  It will not be rewritten.
+
 VHDL syntax check successful!
-Options changed - recompiling
+
+Compiler output is up to date.  No re-compile necessary
+
 @N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\project.vhdl":4:7:4:22|Synthesizing work.switches_to_leds.rtl.
 Post processing for work.switches_to_leds.rtl
 
-At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 69MB peak: 70MB)
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 68MB peak: 69MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Wed Nov 22 19:42:23 2023
+# Wed Dec 13 20:52:59 2023
 
 ###########################################################]
 Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
@@ -32,16 +36,16 @@ At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Wed Nov 22 19:42:24 2023
+# Wed Dec 13 20:52:59 2023
 
 ###########################################################]
 @END
 
-At c_hdl Exit (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:00s; Memory used current: 3MB peak: 4MB)
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 3MB peak: 4MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Wed Nov 22 19:42:24 2023
+# Wed Dec 13 20:52:59 2023
 
 ###########################################################]

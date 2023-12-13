@@ -6,7 +6,7 @@
 
 * Build Date:         Dec  9 2020 17:45:10
 
-* File Generated:     Nov 22 2023 20:39:13
+* File Generated:     Dec 13 2023 20:52:24
 
 * Purpose:            Router runtime info
 
@@ -25,4 +25,4 @@ I1206: Completed routing
 I1204: Writing Design And_Gate_Project
 I1210: Writing routes
 I1218: Exiting the router
-I1224: Router run-time : 4 seconds
+I1224: Router run-time : 1 seconds

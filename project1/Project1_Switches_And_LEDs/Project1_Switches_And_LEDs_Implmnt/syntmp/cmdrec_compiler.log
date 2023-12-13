@@ -1,7 +1,7 @@
 C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synwork\Project1_Switches_And_LEDs_comp.srs  -hdllog  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synlog\Project1_Switches_And_LEDs_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\project.vhdl 
-rc:0 success:1 runtime:3
-file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synwork\Project1_Switches_And_LEDs_comp.srs|io:o|time:1700678544|size:1762|exec:0
-file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synlog\Project1_Switches_And_LEDs_compiler.srr|io:o|time:1700678544|size:2852|exec:0
+rc:0 success:1 runtime:1
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synwork\Project1_Switches_And_LEDs_comp.srs|io:o|time:1702497179|size:1762|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synlog\Project1_Switches_And_LEDs_compiler.srr|io:o|time:1702497179|size:2919|exec:0
 file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project1\project.vhdl|io:i|time:1700676970|size:565|exec:0
 file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1699113081|size:1338368|exec:1
 file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1699113082|size:1754112|exec:1

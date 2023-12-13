@@ -1,4 +1,4 @@
-# Sun Nov 26 12:04:55 2023
+# Wed Dec 13 20:51:12 2023
 
 Synopsys Lattice Technology Pre-mapping, Version maplat, Build 1612R, Built Dec  5 2016 10:31:39
 Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
@@ -6,7 +6,7 @@ Product Version L-2016.09L+ice40
 
 Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 100MB peak: 100MB)
 
-Reading constraint file: D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project3\project3.sdc
+Reading constraint file: D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\Go_Board_Clock_Constraint.sdc
 @L: D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project3\Project3_LED_Toggle\Project3_LED_Toggle_Implmnt\Project3_LED_Toggle_scck.rpt 
 Printing clock  summary report in "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project3\Project3_LED_Toggle\Project3_LED_Toggle_Implmnt\Project3_LED_Toggle_scck.rpt" file 
 @N: MF248 |Running in 64-bit mode.
@@ -57,6 +57,6 @@ Pre-mapping successful!
 At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 48MB peak: 134MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
-# Sun Nov 26 12:04:55 2023
+# Wed Dec 13 20:51:12 2023
 
 ###########################################################]

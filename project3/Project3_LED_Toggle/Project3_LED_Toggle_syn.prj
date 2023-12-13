@@ -1,9 +1,9 @@
 #-- Synopsys, Inc.
 #-- Project file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project3\Project3_LED_Toggle\Project3_LED_Toggle_syn.prj
 #project files
-add_file -vhdl -lib work "../project3.vhdl"
-add_file -constraint -lib work "../project3.sdc"
 
+add_file -vhdl -lib work "../project3.vhdl" 
+add_file -constraint -lib work "../../Go_Board_Clock_Constraint.sdc"
 #implementation: "Project3_LED_Toggle_Implmnt"
 impl -add Project3_LED_Toggle_Implmnt -type fpga
 
@@ -53,5 +53,5 @@ set_option -write_apr_constraint 1
 project -result_format "edif"
 project -result_file ./Project3_LED_Toggle_Implmnt/Project3_LED_Toggle.edf
 project -log_file "./Project3_LED_Toggle_Implmnt/Project3_LED_Toggle.srr"
-impl -active "Project3_LED_Toggle_Implmnt"
+impl -active Project3_LED_Toggle_Implmnt
 project -run synthesis -clean

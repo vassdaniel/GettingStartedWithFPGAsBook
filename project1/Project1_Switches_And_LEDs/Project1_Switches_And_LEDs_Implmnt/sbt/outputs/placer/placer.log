@@ -6,7 +6,7 @@
 
 * Build Date:         Dec  9 2020 17:55:50
 
-* File Generated:     Nov 22 2023 19:42:35
+* File Generated:     Dec 13 2023 20:53:06
 
 * Purpose:            
 
@@ -70,7 +70,7 @@ I2088: Phase 1, elapsed time : 0.0 (sec)
 
 
 Phase 2
-I2088: Phase 2, elapsed time : 0.1 (sec)
+I2088: Phase 2, elapsed time : 0.0 (sec)
 
 Phase 3
 W2659: No Constrained paths were found. The placer will run in non-timing driven mode.
@@ -96,10 +96,10 @@ Device Utilization Summary after Packing
     PLLs                        :	0/0
 
 
-I2088: Phase 3, elapsed time : 0.4 (sec)
+I2088: Phase 3, elapsed time : 0.1 (sec)
 
 Phase 4
-I2088: Phase 4, elapsed time : 0.2 (sec)
+I2088: Phase 4, elapsed time : 0.1 (sec)
 
 Phase 6
 I2088: Phase 6, elapsed time : 0.0 (sec)
@@ -127,5 +127,5 @@ Device Utilization Summary
 
 I2054: Placement of design completed successfully
 
-I2076: Placer run-time: 1.1 sec.
+I2076: Placer run-time: 0.3 sec.
 

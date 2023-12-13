@@ -4,7 +4,7 @@ Version=Lattice Semiconductor Corporation iCEcube - Release: 2020.12.27943 - Bui
 ProjectName=Project2_And_Gate
 Vendor=SiliconBlue
 Synthesis=synplify
-ProjectVFiles=../project2.vhdl
+ProjectVFiles=../project2.vhdl=work
 ProjectCFiles=
 CurImplementation=Project2_And_Gate_Implmnt
 Implementations=Project2_And_Gate_Implmnt
@@ -25,7 +25,7 @@ DesignCell=And_Gate_Project
 SynthesisSDCFile=Project2_And_Gate_Implmnt/Project2_And_Gate.scf
 UserPinConstraintFile=
 UserSDCFile=
-PhysicalConstraintFile=../project2.pcf
+PhysicalConstraintFile=../../Go_Board_Pin_Constraints.pcf
 BackendImplPathName=
 Devicevoltage=1.14
 DevicevoltagePerformance=+/-5%(datasheet default)
