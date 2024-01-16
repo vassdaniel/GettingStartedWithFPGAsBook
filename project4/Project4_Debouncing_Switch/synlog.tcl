@@ -1,0 +1,1 @@
+project -load Project4_Debouncing_Switch_syn.prj

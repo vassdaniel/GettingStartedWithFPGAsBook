@@ -1,0 +1,6 @@
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\project4.vhdl":4:7:4:26|Synthesizing work.debounce_project_top.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project3\project3.vhdl":4:7:4:16|Synthesizing work.led_toggle.rtl.
+Post processing for work.led_toggle.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl":5:7:5:21|Synthesizing work.debounce_filter.rtl.
+Post processing for work.debounce_filter.rtl
+Post processing for work.debounce_project_top.rtl

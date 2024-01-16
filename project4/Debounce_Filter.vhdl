@@ -25,11 +25,11 @@ begin
                 r_Count <= r_Count + 1;
 
             elsif r_Count = DEBOUNCE_LIMIT-1 then
-                r_State = i_Bouncy;
-                r_Count = 0;
+                r_State <= i_Bouncy;
+                r_Count <= 0;
 
             else
-                r_Count = 0;
+                r_Count <= 0;
 
             end if;
         end if;

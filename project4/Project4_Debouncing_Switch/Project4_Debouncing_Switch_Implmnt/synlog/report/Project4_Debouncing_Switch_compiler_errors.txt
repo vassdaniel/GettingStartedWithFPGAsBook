@@ -1,0 +1,4 @@
+@E: CD590 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\project4.vhdl":26:29:26:43|Instantiated entity led_toggle has not been analyzed.
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\project4.vhdl":33:20:33:20|Expecting keyword of
+@E: Parse errors encountered - exiting
+
