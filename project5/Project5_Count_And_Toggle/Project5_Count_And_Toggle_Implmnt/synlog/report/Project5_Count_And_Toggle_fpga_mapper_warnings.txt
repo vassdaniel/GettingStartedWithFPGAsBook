@@ -1,0 +1,6 @@
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_Sw1.r_Count[17:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_Sw1.r_State is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_Sw2.r_Count[17:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_Sw2.r_State is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project5\count_and_toggle.vhdl":22:8:22:9|User-specified initial value defined for instance Count_And_Toggle.r_Counter[22:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project5\count_and_toggle.vhdl":22:8:22:9|User-specified initial value defined for instance Count_And_Toggle.o_Toggle is being ignored. 

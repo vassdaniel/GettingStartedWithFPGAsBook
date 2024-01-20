@@ -1,0 +1,4 @@
+@E: CD126 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\demux_1_4.vhdl":13:4:13:4|Expecting identifier
+@E: CD632 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\demux_1_4.vhdl":14:20:14:20|duplicate entity name demux_1_4
+@E: Parse errors encountered - exiting
+

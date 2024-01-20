@@ -1,0 +1,13 @@
+[VIC]
+Count_And_Toggle.r_Counter_RNO_0Z0Z_22_cascade_=ltout:in3
+Count_And_Toggle.un4_i_enable_11_cascade_=ltout:in0
+Count_And_Toggle.un4_i_enable_15_cascade_=ltout:in0
+Count_And_Toggle.un4_i_enable_20_cascade_=ltout:in2
+Debounce_Sw1.un1_r_Count_1lt11_0_cascade_=ltout:in2
+Debounce_Sw1.un1_r_Count_1lt17_cascade_=ltout:in0
+Debounce_Sw1.un9_r_count_10_0_cascade_=ltout:in1
+Debounce_Sw1.un9_r_count_10_cascade_=ltout:in3
+Debounce_Sw1.un9_r_count_5_cascade_=ltout:in2
+Debounce_Sw2.N_16_cascade_=ltout:in0
+Debounce_Sw2.N_23_cascade_=ltout:in3
+Debounce_Sw2.un9_r_count_10_cascade_=ltout:in1

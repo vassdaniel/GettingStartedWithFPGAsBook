@@ -1,0 +1,2 @@
+
+: 0 work.Demux_Toggle_TOP "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl" 5 7 work.demux_1_4 work.count_and_toggle work.Debounce_Filter work.Debounce_Filter 

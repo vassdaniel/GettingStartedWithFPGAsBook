@@ -1,0 +1,12 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Top entity is set to Demux_Toggle_TOP.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Synthesizing work.demux_toggle_top.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\demux_1_4.vhdl":4:7:4:15|Synthesizing work.demux_1_4.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":5:7:5:22|Synthesizing work.count_and_toggle.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl":5:7:5:21|Synthesizing work.debounce_filter.rtl.
+@N|Running in 64-bit mode
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Selected library: work cell: Demux_Toggle_TOP view rtl as top level
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Selected library: work cell: Demux_Toggle_TOP view rtl as top level
+

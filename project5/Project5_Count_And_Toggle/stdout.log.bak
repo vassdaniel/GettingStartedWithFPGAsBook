@@ -1,0 +1,46 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    DESKTOP-7SVNV87
+Date:        Sat Jan 20 18:28:39 2024
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch Project5_Count_And_Toggle_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\Project5_Count_And_Toggle\Project5_Count_And_Toggle_Implmnt\Project5_Count_And_Toggle.srr"
+Running: Project5_Count_And_Toggle_Implmnt in foreground
+
+Running Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+
+Running: compile (Compile) on Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+# Sat Jan 20 18:28:39 2024
+
+Running: compile_flow (Compile Process) on Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+# Sat Jan 20 18:28:39 2024
+
+Running: compiler (Compile Input) on Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+# Sat Jan 20 18:28:39 2024
+compiler exited with errors
+Job failed on: Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+
+Job: "compiler" terminated with error status: 2
+See log file: "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\Project5_Count_And_Toggle\Project5_Count_And_Toggle_Implmnt\synlog\Project5_Count_And_Toggle_compiler.srr"
+# Sat Jan 20 18:28:39 2024
+
+Return Code: 2
+Run Time:00h:00m:00s
+Complete: Compile Process on Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+Complete: Compile on Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+Complete: Logic Synthesis on Project5_Count_And_Toggle_syn|Project5_Count_And_Toggle_Implmnt
+
+exit status=2
+
+exit status=2
+

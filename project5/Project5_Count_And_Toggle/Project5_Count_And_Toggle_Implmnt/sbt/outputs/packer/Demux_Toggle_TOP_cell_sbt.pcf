@@ -1,0 +1,159 @@
+ble_pack Debounce_Sw1.r_Count_RNI720A_4_LC_4_5_3 { Debounce_Sw1.r_Count_RNI720A[4] }
+ble_pack Debounce_Sw1.r_Count_RNIGFOJ_10_LC_4_5_5 { Debounce_Sw1.r_Count_RNIGFOJ[10] }
+ble_pack Debounce_Sw1.r_Count_RNIMUGJ_17_LC_4_5_6 { Debounce_Sw1.r_Count_RNIMUGJ[17] }
+clb_pack LT_4_5 { Debounce_Sw1.r_Count_RNI720A_4_LC_4_5_3, Debounce_Sw1.r_Count_RNIGFOJ_10_LC_4_5_5, Debounce_Sw1.r_Count_RNIMUGJ_17_LC_4_5_6 }
+set_location LT_4_5 4 5
+ble_pack Debounce_Sw1.r_Count_1_LC_4_6_2 { Debounce_Sw1.r_Count_RNO[1], Debounce_Sw1.r_Count[1] }
+ble_pack Debounce_Sw1.r_Count_RNI2OVJ_1_LC_4_6_3 { Debounce_Sw1.r_Count_RNI2OVJ[1] }
+ble_pack Debounce_Sw1.r_Count_RNIK0081_6_LC_4_6_4 { Debounce_Sw1.r_Count_RNIK0081[6] }
+ble_pack Debounce_Sw1.r_Count_RNI9PG52_12_LC_4_6_5 { Debounce_Sw1.r_Count_RNI9PG52[12] }
+ble_pack Debounce_Sw1.r_State_RNIDSE73_LC_4_6_6 { Debounce_Sw1.r_State_RNIDSE73 }
+ble_pack Debounce_Sw1.r_Count_0_LC_4_6_7 { Debounce_Sw1.r_Count_RNO[0], Debounce_Sw1.r_Count[0] }
+clb_pack LT_4_6 { Debounce_Sw1.r_Count_1_LC_4_6_2, Debounce_Sw1.r_Count_RNI2OVJ_1_LC_4_6_3, Debounce_Sw1.r_Count_RNIK0081_6_LC_4_6_4, Debounce_Sw1.r_Count_RNI9PG52_12_LC_4_6_5, Debounce_Sw1.r_State_RNIDSE73_LC_4_6_6, Debounce_Sw1.r_Count_0_LC_4_6_7 }
+set_location LT_4_6 4 6
+ble_pack Count_And_Toggle.un2_r_counter_cry_1_c_LC_4_7_0 { Count_And_Toggle.un2_r_counter_cry_1_c }
+ble_pack Count_And_Toggle.r_Counter_2_LC_4_7_1 { Count_And_Toggle.r_Counter_RNO[2], Count_And_Toggle.r_Counter[2], Count_And_Toggle.un2_r_counter_cry_2_c }
+ble_pack Count_And_Toggle.r_Counter_3_LC_4_7_2 { Count_And_Toggle.r_Counter_RNO[3], Count_And_Toggle.r_Counter[3], Count_And_Toggle.un2_r_counter_cry_3_c }
+ble_pack Count_And_Toggle.r_Counter_4_LC_4_7_3 { Count_And_Toggle.r_Counter_RNO[4], Count_And_Toggle.r_Counter[4], Count_And_Toggle.un2_r_counter_cry_4_c }
+ble_pack Count_And_Toggle.r_Counter_5_LC_4_7_4 { Count_And_Toggle.r_Counter_RNO[5], Count_And_Toggle.r_Counter[5], Count_And_Toggle.un2_r_counter_cry_5_c }
+ble_pack Count_And_Toggle.r_Counter_RNO_0_6_LC_4_7_5 { Count_And_Toggle.r_Counter_RNO_0[6], Count_And_Toggle.un2_r_counter_cry_6_c }
+ble_pack Count_And_Toggle.r_Counter_7_LC_4_7_6 { Count_And_Toggle.r_Counter_RNO[7], Count_And_Toggle.r_Counter[7], Count_And_Toggle.un2_r_counter_cry_7_c }
+ble_pack Count_And_Toggle.r_Counter_RNO_0_8_LC_4_7_7 { Count_And_Toggle.r_Counter_RNO_0[8], Count_And_Toggle.un2_r_counter_cry_8_c }
+clb_pack LT_4_7 { Count_And_Toggle.un2_r_counter_cry_1_c_LC_4_7_0, Count_And_Toggle.r_Counter_2_LC_4_7_1, Count_And_Toggle.r_Counter_3_LC_4_7_2, Count_And_Toggle.r_Counter_4_LC_4_7_3, Count_And_Toggle.r_Counter_5_LC_4_7_4, Count_And_Toggle.r_Counter_RNO_0_6_LC_4_7_5, Count_And_Toggle.r_Counter_7_LC_4_7_6, Count_And_Toggle.r_Counter_RNO_0_8_LC_4_7_7 }
+set_location LT_4_7 4 7
+ble_pack Count_And_Toggle.r_Counter_RNO_0_9_LC_4_8_0 { Count_And_Toggle.r_Counter_RNO_0[9], Count_And_Toggle.un2_r_counter_cry_9_c }
+ble_pack Count_And_Toggle.r_Counter_10_LC_4_8_1 { Count_And_Toggle.r_Counter_RNO[10], Count_And_Toggle.r_Counter[10], Count_And_Toggle.un2_r_counter_cry_10_c }
+ble_pack Count_And_Toggle.r_Counter_RNO_0_11_LC_4_8_2 { Count_And_Toggle.r_Counter_RNO_0[11], Count_And_Toggle.un2_r_counter_cry_11_c }
+ble_pack Count_And_Toggle.r_Counter_12_LC_4_8_3 { Count_And_Toggle.r_Counter_RNO[12], Count_And_Toggle.r_Counter[12], Count_And_Toggle.un2_r_counter_cry_12_c }
+ble_pack Count_And_Toggle.r_Counter_13_LC_4_8_4 { Count_And_Toggle.r_Counter_RNO[13], Count_And_Toggle.r_Counter[13], Count_And_Toggle.un2_r_counter_cry_13_c }
+ble_pack Count_And_Toggle.r_Counter_RNO_0_14_LC_4_8_5 { Count_And_Toggle.r_Counter_RNO_0[14], Count_And_Toggle.un2_r_counter_cry_14_c }
+ble_pack Count_And_Toggle.r_Counter_15_LC_4_8_6 { Count_And_Toggle.r_Counter_RNO[15], Count_And_Toggle.r_Counter[15], Count_And_Toggle.un2_r_counter_cry_15_c }
+ble_pack Count_And_Toggle.r_Counter_16_LC_4_8_7 { Count_And_Toggle.r_Counter_RNO[16], Count_And_Toggle.r_Counter[16], Count_And_Toggle.un2_r_counter_cry_16_c }
+clb_pack LT_4_8 { Count_And_Toggle.r_Counter_RNO_0_9_LC_4_8_0, Count_And_Toggle.r_Counter_10_LC_4_8_1, Count_And_Toggle.r_Counter_RNO_0_11_LC_4_8_2, Count_And_Toggle.r_Counter_12_LC_4_8_3, Count_And_Toggle.r_Counter_13_LC_4_8_4, Count_And_Toggle.r_Counter_RNO_0_14_LC_4_8_5, Count_And_Toggle.r_Counter_15_LC_4_8_6, Count_And_Toggle.r_Counter_16_LC_4_8_7 }
+set_location LT_4_8 4 8
+ble_pack Count_And_Toggle.r_Counter_17_LC_4_9_0 { Count_And_Toggle.r_Counter_RNO[17], Count_And_Toggle.r_Counter[17], Count_And_Toggle.un2_r_counter_cry_17_c }
+ble_pack Count_And_Toggle.r_Counter_RNO_0_18_LC_4_9_1 { Count_And_Toggle.r_Counter_RNO_0[18], Count_And_Toggle.un2_r_counter_cry_18_c }
+ble_pack Count_And_Toggle.r_Counter_RNO_0_19_LC_4_9_2 { Count_And_Toggle.r_Counter_RNO_0[19], Count_And_Toggle.un2_r_counter_cry_19_c }
+ble_pack Count_And_Toggle.r_Counter_20_LC_4_9_3 { Count_And_Toggle.r_Counter_RNO[20], Count_And_Toggle.r_Counter[20], Count_And_Toggle.un2_r_counter_cry_20_c }
+ble_pack Count_And_Toggle.r_Counter_21_LC_4_9_4 { Count_And_Toggle.r_Counter_RNO[21], Count_And_Toggle.r_Counter[21], Count_And_Toggle.un2_r_counter_cry_21_c }
+ble_pack Count_And_Toggle.r_Counter_RNO_0_22_LC_4_9_5 { Count_And_Toggle.r_Counter_RNO_0[22] }
+ble_pack Count_And_Toggle.r_Counter_22_LC_4_9_6 { Count_And_Toggle.r_Counter_RNO[22], Count_And_Toggle.r_Counter[22] }
+ble_pack Count_And_Toggle.r_Counter_RNITEQL1_22_LC_4_9_7 { Count_And_Toggle.r_Counter_RNITEQL1[22] }
+clb_pack LT_4_9 { Count_And_Toggle.r_Counter_17_LC_4_9_0, Count_And_Toggle.r_Counter_RNO_0_18_LC_4_9_1, Count_And_Toggle.r_Counter_RNO_0_19_LC_4_9_2, Count_And_Toggle.r_Counter_20_LC_4_9_3, Count_And_Toggle.r_Counter_21_LC_4_9_4, Count_And_Toggle.r_Counter_RNO_0_22_LC_4_9_5, Count_And_Toggle.r_Counter_22_LC_4_9_6, Count_And_Toggle.r_Counter_RNITEQL1_22_LC_4_9_7 }
+set_location LT_4_9 4 9
+ble_pack Debounce_Sw1.un2_r_count_cry_1_c_LC_5_5_0 { Debounce_Sw1.un2_r_count_cry_1_c }
+ble_pack Debounce_Sw1.r_Count_2_LC_5_5_1 { Debounce_Sw1.r_Count_RNO[2], Debounce_Sw1.r_Count[2], Debounce_Sw1.un2_r_count_cry_2_c }
+ble_pack Debounce_Sw1.r_Count_3_LC_5_5_2 { Debounce_Sw1.r_Count_RNO[3], Debounce_Sw1.r_Count[3], Debounce_Sw1.un2_r_count_cry_3_c }
+ble_pack Debounce_Sw1.r_Count_4_LC_5_5_3 { Debounce_Sw1.r_Count_RNO[4], Debounce_Sw1.r_Count[4], Debounce_Sw1.un2_r_count_cry_4_c }
+ble_pack Debounce_Sw1.r_Count_5_LC_5_5_4 { Debounce_Sw1.r_Count_RNO[5], Debounce_Sw1.r_Count[5], Debounce_Sw1.un2_r_count_cry_5_c }
+ble_pack Debounce_Sw1.r_Count_6_LC_5_5_5 { Debounce_Sw1.r_Count_RNO[6], Debounce_Sw1.r_Count[6], Debounce_Sw1.un2_r_count_cry_6_c }
+ble_pack Debounce_Sw1.r_Count_7_LC_5_5_6 { Debounce_Sw1.r_Count_RNO[7], Debounce_Sw1.r_Count[7], Debounce_Sw1.un2_r_count_cry_7_c }
+ble_pack Debounce_Sw1.r_Count_8_LC_5_5_7 { Debounce_Sw1.r_Count_RNO[8], Debounce_Sw1.r_Count[8], Debounce_Sw1.un2_r_count_cry_8_c }
+clb_pack LT_5_5 { Debounce_Sw1.un2_r_count_cry_1_c_LC_5_5_0, Debounce_Sw1.r_Count_2_LC_5_5_1, Debounce_Sw1.r_Count_3_LC_5_5_2, Debounce_Sw1.r_Count_4_LC_5_5_3, Debounce_Sw1.r_Count_5_LC_5_5_4, Debounce_Sw1.r_Count_6_LC_5_5_5, Debounce_Sw1.r_Count_7_LC_5_5_6, Debounce_Sw1.r_Count_8_LC_5_5_7 }
+set_location LT_5_5 5 5
+ble_pack Debounce_Sw1.r_Count_9_LC_5_6_0 { Debounce_Sw1.r_Count_RNO[9], Debounce_Sw1.r_Count[9], Debounce_Sw1.un2_r_count_cry_9_c }
+ble_pack Debounce_Sw1.r_Count_10_LC_5_6_1 { Debounce_Sw1.r_Count_RNO[10], Debounce_Sw1.r_Count[10], Debounce_Sw1.un2_r_count_cry_10_c }
+ble_pack Debounce_Sw1.r_Count_11_LC_5_6_2 { Debounce_Sw1.r_Count_RNO[11], Debounce_Sw1.r_Count[11], Debounce_Sw1.un2_r_count_cry_11_c }
+ble_pack Debounce_Sw1.r_Count_12_LC_5_6_3 { Debounce_Sw1.r_Count_RNO[12], Debounce_Sw1.r_Count[12], Debounce_Sw1.un2_r_count_cry_12_c }
+ble_pack Debounce_Sw1.r_Count_13_LC_5_6_4 { Debounce_Sw1.r_Count_RNO[13], Debounce_Sw1.r_Count[13], Debounce_Sw1.un2_r_count_cry_13_c }
+ble_pack Debounce_Sw1.r_Count_14_LC_5_6_5 { Debounce_Sw1.r_Count_RNO[14], Debounce_Sw1.r_Count[14], Debounce_Sw1.un2_r_count_cry_14_c }
+ble_pack Debounce_Sw1.r_Count_15_LC_5_6_6 { Debounce_Sw1.r_Count_RNO[15], Debounce_Sw1.r_Count[15], Debounce_Sw1.un2_r_count_cry_15_c }
+ble_pack Debounce_Sw1.r_Count_16_LC_5_6_7 { Debounce_Sw1.r_Count_RNO[16], Debounce_Sw1.r_Count[16], Debounce_Sw1.un2_r_count_cry_16_c }
+clb_pack LT_5_6 { Debounce_Sw1.r_Count_9_LC_5_6_0, Debounce_Sw1.r_Count_10_LC_5_6_1, Debounce_Sw1.r_Count_11_LC_5_6_2, Debounce_Sw1.r_Count_12_LC_5_6_3, Debounce_Sw1.r_Count_13_LC_5_6_4, Debounce_Sw1.r_Count_14_LC_5_6_5, Debounce_Sw1.r_Count_15_LC_5_6_6, Debounce_Sw1.r_Count_16_LC_5_6_7 }
+set_location LT_5_6 5 6
+ble_pack Debounce_Sw1.r_Count_17_LC_5_7_0 { Debounce_Sw1.r_Count_RNO[17], Debounce_Sw1.r_Count[17] }
+clb_pack LT_5_7 { Debounce_Sw1.r_Count_17_LC_5_7_0 }
+set_location LT_5_7 5 7
+ble_pack Count_And_Toggle.r_Counter_RNIBHPL1_10_LC_5_8_0 { Count_And_Toggle.r_Counter_RNIBHPL1[10] }
+ble_pack Count_And_Toggle.r_Counter_8_LC_5_8_1 { Count_And_Toggle.r_Counter_RNO[8], Count_And_Toggle.r_Counter[8] }
+ble_pack Count_And_Toggle.r_Counter_1_LC_5_8_2 { Count_And_Toggle.r_Counter_RNO[1], Count_And_Toggle.r_Counter[1] }
+ble_pack Count_And_Toggle.r_Counter_0_LC_5_8_3 { Count_And_Toggle.r_Counter_RNO[0], Count_And_Toggle.r_Counter[0] }
+ble_pack Count_And_Toggle.r_Counter_RNI6J0M1_4_LC_5_8_4 { Count_And_Toggle.r_Counter_RNI6J0M1[4] }
+ble_pack Count_And_Toggle.r_Counter_11_LC_5_8_5 { Count_And_Toggle.r_Counter_RNO[11], Count_And_Toggle.r_Counter[11] }
+ble_pack Count_And_Toggle.r_Counter_RNIO40M1_1_LC_5_8_6 { Count_And_Toggle.r_Counter_RNIO40M1[1] }
+ble_pack Count_And_Toggle.r_Counter_6_LC_5_8_7 { Count_And_Toggle.r_Counter_RNO[6], Count_And_Toggle.r_Counter[6] }
+clb_pack LT_5_8 { Count_And_Toggle.r_Counter_RNIBHPL1_10_LC_5_8_0, Count_And_Toggle.r_Counter_8_LC_5_8_1, Count_And_Toggle.r_Counter_1_LC_5_8_2, Count_And_Toggle.r_Counter_0_LC_5_8_3, Count_And_Toggle.r_Counter_RNI6J0M1_4_LC_5_8_4, Count_And_Toggle.r_Counter_11_LC_5_8_5, Count_And_Toggle.r_Counter_RNIO40M1_1_LC_5_8_6, Count_And_Toggle.r_Counter_6_LC_5_8_7 }
+set_location LT_5_8 5 8
+ble_pack Count_And_Toggle.r_Counter_19_LC_5_9_0 { Count_And_Toggle.r_Counter_RNO[19], Count_And_Toggle.r_Counter[19] }
+ble_pack Count_And_Toggle.r_Counter_RNI6LNL1_11_LC_5_9_2 { Count_And_Toggle.r_Counter_RNI6LNL1[11] }
+ble_pack Count_And_Toggle.r_Counter_18_LC_5_9_3 { Count_And_Toggle.r_Counter_RNO[18], Count_And_Toggle.r_Counter[18] }
+ble_pack Count_And_Toggle.r_Counter_RNIMOB81_15_LC_5_9_4 { Count_And_Toggle.r_Counter_RNIMOB81[15] }
+ble_pack Count_And_Toggle.r_Counter_RNIV16A6_10_LC_5_9_5 { Count_And_Toggle.r_Counter_RNIV16A6[10] }
+ble_pack Count_And_Toggle.r_Counter_14_LC_5_9_6 { Count_And_Toggle.r_Counter_RNO[14], Count_And_Toggle.r_Counter[14] }
+clb_pack LT_5_9 { Count_And_Toggle.r_Counter_19_LC_5_9_0, Count_And_Toggle.r_Counter_RNI6LNL1_11_LC_5_9_2, Count_And_Toggle.r_Counter_18_LC_5_9_3, Count_And_Toggle.r_Counter_RNIMOB81_15_LC_5_9_4, Count_And_Toggle.r_Counter_RNIV16A6_10_LC_5_9_5, Count_And_Toggle.r_Counter_14_LC_5_9_6 }
+set_location LT_5_9 5 9
+ble_pack Debounce_Sw1.r_State_RNO_0_LC_6_5_5 { Debounce_Sw1.r_State_RNO_0 }
+clb_pack LT_6_5 { Debounce_Sw1.r_State_RNO_0_LC_6_5_5 }
+set_location LT_6_5 6 5
+ble_pack Debounce_Sw1.r_State_RNO_3_LC_6_6_4 { Debounce_Sw1.r_State_RNO_3 }
+ble_pack Debounce_Sw1.r_State_RNO_1_LC_6_6_5 { Debounce_Sw1.r_State_RNO_1 }
+ble_pack Debounce_Sw1.r_State_LC_6_6_6 { Debounce_Sw1.r_State_RNO, Debounce_Sw1.r_State }
+ble_pack Debounce_Sw1.r_State_RNO_2_LC_6_6_7 { Debounce_Sw1.r_State_RNO_2 }
+clb_pack LT_6_6 { Debounce_Sw1.r_State_RNO_3_LC_6_6_4, Debounce_Sw1.r_State_RNO_1_LC_6_6_5, Debounce_Sw1.r_State_LC_6_6_6, Debounce_Sw1.r_State_RNO_2_LC_6_6_7 }
+set_location LT_6_6 6 6
+ble_pack Count_And_Toggle.r_Counter_9_LC_6_8_5 { Count_And_Toggle.r_Counter_RNO[9], Count_And_Toggle.r_Counter[9] }
+clb_pack LT_6_8 { Count_And_Toggle.r_Counter_9_LC_6_8_5 }
+set_location LT_6_8 6 8
+ble_pack Count_And_Toggle.o_Toggle_LC_6_9_0 { Count_And_Toggle.o_Toggle_RNO, Count_And_Toggle.o_Toggle }
+clb_pack LT_6_9 { Count_And_Toggle.o_Toggle_LC_6_9_0 }
+set_location LT_6_9 6 9
+ble_pack Debounce_Sw2.r_State_e_0_LC_6_10_1 { Debounce_Sw2.r_State_e_0_THRU_LUT4_0, Debounce_Sw2.r_State_e_0 }
+clb_pack LT_6_10 { Debounce_Sw2.r_State_e_0_LC_6_10_1 }
+set_location LT_6_10 6 10
+ble_pack Debounce_Sw2.r_Count_1_LC_7_8_0 { Debounce_Sw2.r_Count_RNO[1], Debounce_Sw2.r_Count[1] }
+ble_pack Debounce_Sw2.r_Count_0_LC_7_8_7 { Debounce_Sw2.r_Count_RNO[0], Debounce_Sw2.r_Count[0] }
+clb_pack LT_7_8 { Debounce_Sw2.r_Count_1_LC_7_8_0, Debounce_Sw2.r_Count_0_LC_7_8_7 }
+set_location LT_7_8 7 8
+ble_pack Debounce_Sw2.r_Count_RNIV5631_4_LC_7_9_0 { Debounce_Sw2.r_Count_RNIV5631[4] }
+ble_pack Debounce_Sw2.r_Count_RNI64TE1_1_LC_7_9_2 { Debounce_Sw2.r_Count_RNI64TE1[1] }
+ble_pack Debounce_Sw2.r_Count_RNISOQT2_7_LC_7_9_3 { Debounce_Sw2.r_Count_RNISOQT2[7] }
+ble_pack Debounce_Sw2.r_Count_RNINN314_12_LC_7_9_4 { Debounce_Sw2.r_Count_RNINN314[12] }
+ble_pack Debounce_Sw2.r_State_e_0_RNIK82U4_LC_7_9_5 { Debounce_Sw2.r_State_e_0_RNIK82U4 }
+ble_pack Debounce_Sw2.r_State_e_0_RNO_LC_7_9_6 { Debounce_Sw2.r_State_e_0_RNO }
+ble_pack Debounce_Sw2.r_State_e_0_RNO_0_LC_7_9_7 { Debounce_Sw2.r_State_e_0_RNO_0 }
+clb_pack LT_7_9 { Debounce_Sw2.r_Count_RNIV5631_4_LC_7_9_0, Debounce_Sw2.r_Count_RNI64TE1_1_LC_7_9_2, Debounce_Sw2.r_Count_RNISOQT2_7_LC_7_9_3, Debounce_Sw2.r_Count_RNINN314_12_LC_7_9_4, Debounce_Sw2.r_State_e_0_RNIK82U4_LC_7_9_5, Debounce_Sw2.r_State_e_0_RNO_LC_7_9_6, Debounce_Sw2.r_State_e_0_RNO_0_LC_7_9_7 }
+set_location LT_7_9 7 9
+ble_pack Debounce_Sw2.r_Count_RNIQEQB_17_LC_7_10_0 { Debounce_Sw2.r_Count_RNIQEQB[17] }
+ble_pack Debounce_Sw2.r_Count_RNIKTBT_10_LC_7_10_5 { Debounce_Sw2.r_Count_RNIKTBT[10] }
+clb_pack LT_7_10 { Debounce_Sw2.r_Count_RNIQEQB_17_LC_7_10_0, Debounce_Sw2.r_Count_RNIKTBT_10_LC_7_10_5 }
+set_location LT_7_10 7 10
+ble_pack Debounce_Sw2.un2_r_count_cry_1_c_LC_8_9_0 { Debounce_Sw2.un2_r_count_cry_1_c }
+ble_pack Debounce_Sw2.r_Count_2_LC_8_9_1 { Debounce_Sw2.r_Count_RNO[2], Debounce_Sw2.r_Count[2], Debounce_Sw2.un2_r_count_cry_2_c }
+ble_pack Debounce_Sw2.r_Count_3_LC_8_9_2 { Debounce_Sw2.r_Count_RNO[3], Debounce_Sw2.r_Count[3], Debounce_Sw2.un2_r_count_cry_3_c }
+ble_pack Debounce_Sw2.r_Count_4_LC_8_9_3 { Debounce_Sw2.r_Count_RNO[4], Debounce_Sw2.r_Count[4], Debounce_Sw2.un2_r_count_cry_4_c }
+ble_pack Debounce_Sw2.r_Count_5_LC_8_9_4 { Debounce_Sw2.r_Count_RNO[5], Debounce_Sw2.r_Count[5], Debounce_Sw2.un2_r_count_cry_5_c }
+ble_pack Debounce_Sw2.r_Count_6_LC_8_9_5 { Debounce_Sw2.r_Count_RNO[6], Debounce_Sw2.r_Count[6], Debounce_Sw2.un2_r_count_cry_6_c }
+ble_pack Debounce_Sw2.r_Count_7_LC_8_9_6 { Debounce_Sw2.r_Count_RNO[7], Debounce_Sw2.r_Count[7], Debounce_Sw2.un2_r_count_cry_7_c }
+ble_pack Debounce_Sw2.r_Count_8_LC_8_9_7 { Debounce_Sw2.r_Count_RNO[8], Debounce_Sw2.r_Count[8], Debounce_Sw2.un2_r_count_cry_8_c }
+clb_pack LT_8_9 { Debounce_Sw2.un2_r_count_cry_1_c_LC_8_9_0, Debounce_Sw2.r_Count_2_LC_8_9_1, Debounce_Sw2.r_Count_3_LC_8_9_2, Debounce_Sw2.r_Count_4_LC_8_9_3, Debounce_Sw2.r_Count_5_LC_8_9_4, Debounce_Sw2.r_Count_6_LC_8_9_5, Debounce_Sw2.r_Count_7_LC_8_9_6, Debounce_Sw2.r_Count_8_LC_8_9_7 }
+set_location LT_8_9 8 9
+ble_pack Debounce_Sw2.r_Count_9_LC_8_10_0 { Debounce_Sw2.r_Count_RNO[9], Debounce_Sw2.r_Count[9], Debounce_Sw2.un2_r_count_cry_9_c }
+ble_pack Debounce_Sw2.r_Count_10_LC_8_10_1 { Debounce_Sw2.r_Count_RNO[10], Debounce_Sw2.r_Count[10], Debounce_Sw2.un2_r_count_cry_10_c }
+ble_pack Debounce_Sw2.r_Count_11_LC_8_10_2 { Debounce_Sw2.r_Count_RNO[11], Debounce_Sw2.r_Count[11], Debounce_Sw2.un2_r_count_cry_11_c }
+ble_pack Debounce_Sw2.r_Count_12_LC_8_10_3 { Debounce_Sw2.r_Count_RNO[12], Debounce_Sw2.r_Count[12], Debounce_Sw2.un2_r_count_cry_12_c }
+ble_pack Debounce_Sw2.r_Count_13_LC_8_10_4 { Debounce_Sw2.r_Count_RNO[13], Debounce_Sw2.r_Count[13], Debounce_Sw2.un2_r_count_cry_13_c }
+ble_pack Debounce_Sw2.r_Count_14_LC_8_10_5 { Debounce_Sw2.r_Count_RNO[14], Debounce_Sw2.r_Count[14], Debounce_Sw2.un2_r_count_cry_14_c }
+ble_pack Debounce_Sw2.r_Count_15_LC_8_10_6 { Debounce_Sw2.r_Count_RNO[15], Debounce_Sw2.r_Count[15], Debounce_Sw2.un2_r_count_cry_15_c }
+ble_pack Debounce_Sw2.r_Count_16_LC_8_10_7 { Debounce_Sw2.r_Count_RNO[16], Debounce_Sw2.r_Count[16], Debounce_Sw2.un2_r_count_cry_16_c }
+clb_pack LT_8_10 { Debounce_Sw2.r_Count_9_LC_8_10_0, Debounce_Sw2.r_Count_10_LC_8_10_1, Debounce_Sw2.r_Count_11_LC_8_10_2, Debounce_Sw2.r_Count_12_LC_8_10_3, Debounce_Sw2.r_Count_13_LC_8_10_4, Debounce_Sw2.r_Count_14_LC_8_10_5, Debounce_Sw2.r_Count_15_LC_8_10_6, Debounce_Sw2.r_Count_16_LC_8_10_7 }
+set_location LT_8_10 8 10
+ble_pack Debounce_Sw2.r_Count_17_LC_8_11_0 { Debounce_Sw2.r_Count_RNO[17], Debounce_Sw2.r_Count[17] }
+clb_pack LT_8_11 { Debounce_Sw2.r_Count_17_LC_8_11_0 }
+set_location LT_8_11 8 11
+ble_pack Demux.o_Data2_0_a3_LC_12_7_0 { Demux.o_Data2_0_a3 }
+ble_pack Demux.o_Data3_0_a3_LC_12_7_1 { Demux.o_Data3_0_a3 }
+ble_pack Demux.o_Data1_0_a3_LC_12_7_7 { Demux.o_Data1_0_a3 }
+clb_pack LT_12_7 { Demux.o_Data2_0_a3_LC_12_7_0, Demux.o_Data3_0_a3_LC_12_7_1, Demux.o_Data1_0_a3_LC_12_7_7 }
+set_location LT_12_7 12 7
+ble_pack Demux.o_Data4_0_a3_LC_12_8_1 { Demux.o_Data4_0_a3 }
+clb_pack LT_12_8 { Demux.o_Data4_0_a3_LC_12_8_1 }
+set_location LT_12_8 12 8
+set_location Debounce_Sw2.r_State_e_0_RNIK82U4_0 6 17
+set_location Debounce_Sw1.r_State_RNIDSE73_0 0 8
+set_io o_LED_3 59
+set_io o_LED_1 56
+set_io i_Switch_2 51
+set_io i_Clk 15
+set_io o_LED_4 60
+set_io o_LED_2 57
+set_io i_Switch_1 53

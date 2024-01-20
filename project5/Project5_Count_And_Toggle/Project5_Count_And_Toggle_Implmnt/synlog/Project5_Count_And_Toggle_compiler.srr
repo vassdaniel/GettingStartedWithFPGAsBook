@@ -1,0 +1,52 @@
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Top entity is set to Demux_Toggle_TOP.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+VHDL syntax check successful!
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Synthesizing work.demux_toggle_top.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\demux_1_4.vhdl":4:7:4:15|Synthesizing work.demux_1_4.rtl.
+Post processing for work.demux_1_4.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":5:7:5:22|Synthesizing work.count_and_toggle.rtl.
+Post processing for work.count_and_toggle.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl":5:7:5:21|Synthesizing work.debounce_filter.rtl.
+Post processing for work.debounce_filter.rtl
+Post processing for work.demux_toggle_top.rtl
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 69MB peak: 70MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 20 18:29:23 2024
+
+###########################################################]
+Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Selected library: work cell: Demux_Toggle_TOP view rtl as top level
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\project5.vhdl":5:7:5:22|Selected library: work cell: Demux_Toggle_TOP view rtl as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 20 18:29:23 2024
+
+###########################################################]
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 3MB peak: 4MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 20 18:29:23 2024
+
+###########################################################]
