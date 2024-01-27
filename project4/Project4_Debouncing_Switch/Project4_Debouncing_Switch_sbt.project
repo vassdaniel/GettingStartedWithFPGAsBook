@@ -4,7 +4,7 @@ Version=Lattice Semiconductor Corporation iCEcube - Release: 2020.12.27943 - Bui
 ProjectName=Project4_Debouncing_Switch
 Vendor=SiliconBlue
 Synthesis=synplify
-ProjectVFiles=../project4.vhdl,../Debounce_Filter.vhdl,../../project3/project3.vhdl
+ProjectVFiles=../project4.vhdl=work,../Debounce_Filter.vhdl=work,../../project3/project3.vhdl=work
 ProjectCFiles=../../Go_Board_Clock_Constraint.sdc
 CurImplementation=Project4_Debouncing_Switch_Implmnt
 Implementations=Project4_Debouncing_Switch_Implmnt

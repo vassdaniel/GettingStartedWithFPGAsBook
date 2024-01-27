@@ -1,0 +1,69 @@
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+VHDL syntax check successful!
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Synthesizing work.state_machine_top.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl":4:7:4:24|Synthesizing work.binary_to_7segment.rtl.
+@N: CD604 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl":58:16:58:29|OTHERS clause is not synthesized.
+Post processing for work.binary_to_7segment.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":5:7:5:24|Synthesizing work.state_machine_game.rtl.
+@N: CD231 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":26:19:26:20|Using onehot encoding for type t_sm_main. For example, enumeration start is mapped to "1000000".
+@N: CD604 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":104:20:104:33|OTHERS clause is not synthesized.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\LFSR_22.vhdl":4:7:4:13|Synthesizing work.lfsr_22.rtl.
+Post processing for work.lfsr_22.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":5:7:5:22|Synthesizing work.count_and_toggle.rtl.
+Post processing for work.count_and_toggle.rtl
+Post processing for work.state_machine_game.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl":5:7:5:21|Synthesizing work.debounce_filter.rtl.
+Post processing for work.debounce_filter.rtl
+Post processing for work.state_machine_top.rtl
+@N: CL201 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":45:8:45:9|Trying to extract state machine for register r_SM_Main.
+Extracted state machine for register r_SM_Main
+State machine has 7 reachable states with original encodings of:
+   0000001
+   0000010
+   0000100
+   0001000
+   0010000
+   0100000
+   1000000
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 71MB peak: 74MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 27 21:36:14 2024
+
+###########################################################]
+Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Selected library: work cell: State_Machine_Top view rtl as top level
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Selected library: work cell: State_Machine_Top view rtl as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 27 21:36:14 2024
+
+###########################################################]
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 3MB peak: 4MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 27 21:36:14 2024
+
+###########################################################]

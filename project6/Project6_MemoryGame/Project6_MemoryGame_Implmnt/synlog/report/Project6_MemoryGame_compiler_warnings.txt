@@ -1,0 +1,2 @@
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+

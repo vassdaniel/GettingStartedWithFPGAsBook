@@ -1,0 +1,1133 @@
+21:23:29
+"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:25:25 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl":5:7:5:21|Top entity is set to Debounce_Filter.
+@E: CD213 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":41:4:41:15|Undefined identifier
+@E: CD213 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":49:4:49:15|Undefined identifier
+@E: CD213 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":57:4:57:15|Undefined identifier
+@E: CD213 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":65:4:65:15|Undefined identifier
+@E: CD213 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":73:4:73:12|Undefined identifier
+@E: CD213 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":89:4:89:13|Undefined identifier
+6 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl
+6 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl
+6 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\LFSR_22.vhdl
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+6 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl
+@E: CD126 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":9:4:9:4|Expecting identifier
+@E: CD632 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":22:29:22:29|duplicate entity name state_machine_game
+@E: CD255 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":36:55:36:55|No identifier "game_limit" in scope
+@E: CD255 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":43:17:43:17|No identifier "i_clk" in scope
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":168:28:168:28|Expecting keyword is
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":168:28:168:28|Too many errors - aborting.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:25:26 2024
+
+###########################################################]
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:25:26 2024
+
+###########################################################]
+
+
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 4 seconds"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:27:23 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+@E: CD126 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":9:4:9:4|Expecting identifier
+@E: CD632 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":22:29:22:29|duplicate entity name state_machine_game
+@E: CD255 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":36:55:36:55|No identifier "game_limit" in scope
+@E: CD255 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":43:17:43:17|No identifier "i_clk" in scope
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":168:28:168:28|Expecting keyword is
+@E: CD632 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":177:27:177:27|duplicate entity name work
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":185:20:185:20|Expecting keyword of
+7 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl
+@E: CD178 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":78:21:78:25|Can't find formal i_clk
+@E: CD632 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":89:28:89:28|duplicate entity name work
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":109:20:109:20|Expecting keyword of
+10 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl
+@E: Parse errors encountered - exiting
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:27:24 2024
+
+###########################################################]
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:27:24 2024
+
+###########################################################]
+
+
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 1 seconds"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:28:08 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+@E: CD242 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":10:4:10:7|Expecting ;
+1 error parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl
+@E: CD178 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":93:28:93:39|Can't find formal o_segment2_a
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":109:20:109:20|Expecting keyword of
+3 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl
+@E: Parse errors encountered - exiting
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:28:08 2024
+
+###########################################################]
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:28:08 2024
+
+###########################################################]
+
+
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 1 seconds"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:28:30 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+@E: CD178 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":93:28:93:39|Can't find formal o_segment2_a
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":109:20:109:20|Expecting keyword of
+2 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl
+@E: Parse errors encountered - exiting
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:28:30 2024
+
+###########################################################]
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:28:30 2024
+
+###########################################################]
+
+
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 1 seconds"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:33:08 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+@E: CD178 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":93:28:93:39|Can't find formal o_segment2_a
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":109:20:109:20|Expecting keyword of
+2 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl
+@E: Parse errors encountered - exiting
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:33:08 2024
+
+###########################################################]
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:33:08 2024
+
+###########################################################]
+
+
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 1 seconds"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:33:27 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+@E: CD178 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":93:28:93:39|Can't find formal o_segment2_a
+@E: CD415 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":109:20:109:20|Expecting keyword of
+2 errors parsing file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl
+@E: Parse errors encountered - exiting
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:33:27 2024
+
+###########################################################]
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:33:27 2024
+
+###########################################################]
+
+
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 1 seconds"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:35:01 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+VHDL syntax check successful!
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Synthesizing work.state_machine_top.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl":4:7:4:24|Synthesizing work.binary_to_7segment.rtl.
+@N: CD604 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl":58:16:58:29|OTHERS clause is not synthesized.
+Post processing for work.binary_to_7segment.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":5:7:5:24|Synthesizing work.state_machine_game.rtl.
+@N: CD231 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":26:19:26:20|Using onehot encoding for type t_sm_main. For example, enumeration start is mapped to "1000000".
+@E: CD871 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":56:28:56:34|Invalid range. Left side has null integer range.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:35:01 2024
+
+###########################################################]
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:35:01 2024
+
+###########################################################]
+
+
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 1 seconds"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\synpwrap\synpwrap.exe" -prj "Project6_MemoryGame_syn.prj" -log "Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+
+==contents of Project6_MemoryGame_Implmnt/Project6_MemoryGame.srr
+#Build: Synplify Pro L-2016.09L+ice40, Build 077R, Dec  2 2016
+#install: C:\lscc\iCEcube2.2020.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7SVNV87
+
+# Sat Jan 27 21:36:14 2024
+
+#Implementation: Project6_MemoryGame_Implmnt
+
+Synopsys HDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys VHDL Compiler, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Top entity is set to State_Machine_Top.
+@W: CD266 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":25:36:25:43|o_toggle is not readable.  This may cause a simulation mismatch.
+VHDL syntax check successful!
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Synthesizing work.state_machine_top.rtl.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl":4:7:4:24|Synthesizing work.binary_to_7segment.rtl.
+@N: CD604 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl":58:16:58:29|OTHERS clause is not synthesized.
+Post processing for work.binary_to_7segment.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":5:7:5:24|Synthesizing work.state_machine_game.rtl.
+@N: CD231 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":26:19:26:20|Using onehot encoding for type t_sm_main. For example, enumeration start is mapped to "1000000".
+@N: CD604 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":104:20:104:33|OTHERS clause is not synthesized.
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\LFSR_22.vhdl":4:7:4:13|Synthesizing work.lfsr_22.rtl.
+Post processing for work.lfsr_22.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl":5:7:5:22|Synthesizing work.count_and_toggle.rtl.
+Post processing for work.count_and_toggle.rtl
+Post processing for work.state_machine_game.rtl
+@N: CD630 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl":5:7:5:21|Synthesizing work.debounce_filter.rtl.
+Post processing for work.debounce_filter.rtl
+Post processing for work.state_machine_top.rtl
+@N: CL201 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":45:8:45:9|Trying to extract state machine for register r_SM_Main.
+Extracted state machine for register r_SM_Main
+State machine has 7 reachable states with original encodings of:
+   0000001
+   0000010
+   0000100
+   0001000
+   0010000
+   0100000
+   1000000
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 71MB peak: 74MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 27 21:36:14 2024
+
+###########################################################]
+Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Selected library: work cell: State_Machine_Top view rtl as top level
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Selected library: work cell: State_Machine_Top view rtl as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 27 21:36:14 2024
+
+###########################################################]
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 3MB peak: 4MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 27 21:36:14 2024
+
+###########################################################]
+Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Selected library: work cell: State_Machine_Top view rtl as top level
+@N: NF107 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl":4:7:4:23|Selected library: work cell: State_Machine_Top view rtl as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Jan 27 21:36:16 2024
+
+###########################################################]
+Pre-mapping Report
+
+# Sat Jan 27 21:36:16 2024
+
+Synopsys Lattice Technology Pre-mapping, Version maplat, Build 1612R, Built Dec  5 2016 10:31:39
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+Product Version L-2016.09L+ice40
+
+Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 100MB peak: 100MB)
+
+Reading constraint file: D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\Go_Board_Clock_Constraint.sdc
+@L: D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\Project6_MemoryGame_scck.rpt 
+Printing clock  summary report in "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\Project6_MemoryGame_scck.rpt" file 
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+
+Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 101MB peak: 103MB)
+
+
+Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 101MB peak: 103MB)
+
+
+Start loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 102MB peak: 103MB)
+
+
+Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 102MB peak: 104MB)
+
+
+ICG Latch Removal Summary:
+Number of ICG latches removed:	0
+Number of ICG latches not removed:	0
+syn_allowed_resources : blockrams=16  set on top level netlist State_Machine_Top
+
+Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 132MB peak: 134MB)
+
+
+
+Clock Summary
+*****************
+
+Start     Requested     Requested     Clock        Clock                Clock
+Clock     Frequency     Period        Type         Group                Load 
+-----------------------------------------------------------------------------
+i_Clk     25.0 MHz      40.000        declared     default_clkgroup     167  
+=============================================================================
+
+Finished Pre Mapping Phase.
+@N: BN225 |Writing default property annotation file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\Project6_MemoryGame.sap.
+
+Starting constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 132MB peak: 134MB)
+
+Encoding state machine r_SM_Main[0:6] (in view: work.State_Machine_Game(rtl))
+original code -> new code
+   0000001 -> 000
+   0000010 -> 001
+   0000100 -> 010
+   0001000 -> 011
+   0010000 -> 100
+   0100000 -> 101
+   1000000 -> 110
+None
+None
+
+Finished constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 133MB peak: 134MB)
+
+Pre-mapping successful!
+
+At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 49MB peak: 134MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:36:16 2024
+
+###########################################################]
+Map & Optimize Report
+
+# Sat Jan 27 21:36:16 2024
+
+Synopsys Lattice Technology Mapper, Version maplat, Build 1612R, Built Dec  5 2016 10:31:39
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+Product Version L-2016.09L+ice40
+
+Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 100MB peak: 100MB)
+
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+
+Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 99MB peak: 101MB)
+
+
+Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 99MB peak: 101MB)
+
+
+Start loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 101MB peak: 101MB)
+
+
+Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 101MB peak: 103MB)
+
+
+
+Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 132MB peak: 134MB)
+
+
+Available hyper_sources - for debug and ip models
+	None Found
+
+@N: MT204 |Auto Constrain mode is disabled because clocks are defined in the SDC file
+
+            i_Clk
+
+@W: FA239 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project6\binary_to_7segment.vhdl":25:12:25:15|ROM r_Hex_Encoding_17[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project6\binary_to_7segment.vhdl":25:12:25:15|ROM r_Hex_Encoding_17[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@N: MO106 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project6\binary_to_7segment.vhdl":25:12:25:15|Found ROM .delname. (in view: work.Binary_To_7Segment(rtl)) with 16 words by 7 bits.
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW1.r_Count[17:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW1.r_State is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW2.r_Count[17:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW2.r_State is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW3.r_Count[17:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW3.r_State is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW4.r_Count[17:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|User-specified initial value defined for instance Debounce_SW4.r_State is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project5\count_and_toggle.vhdl":22:8:22:9|User-specified initial value defined for instance Game_Inst.Count_Inst.r_Counter[22:0] is being ignored. 
+@W: FX1039 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project5\count_and_toggle.vhdl":22:8:22:9|User-specified initial value defined for instance Game_Inst.Count_Inst.o_Toggle is being ignored. 
+
+Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 132MB peak: 134MB)
+
+Encoding state machine r_SM_Main[0:6] (in view: work.State_Machine_Game(rtl))
+original code -> new code
+   0000001 -> 000
+   0000010 -> 001
+   0000100 -> 010
+   0001000 -> 011
+   0010000 -> 100
+   0100000 -> 101
+   1000000 -> 110
+
+Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 133MB peak: 134MB)
+
+
+Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 137MB peak: 138MB)
+
+
+Finished gated-clock and generated-clock conversion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 135MB peak: 138MB)
+
+
+Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 136MB peak: 138MB)
+
+
+Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 136MB peak: 138MB)
+
+
+Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 136MB peak: 138MB)
+
+
+Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 136MB peak: 138MB)
+
+
+Finished preparing to map (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 136MB peak: 138MB)
+
+
+Finished technology mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 139MB peak: 141MB)
+
+Pass		 CPU time		Worst Slack		Luts / Registers
+------------------------------------------------------------
+   1		0h:00m:00s		    27.13ns		 243 /       163
+@A: BN291 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|Boundary register Debounce_SW4.r_State (in view: work.State_Machine_Top(rtl)) is packed into a complex cell. To disable register packing, set syn_keep=1 on the net between the register and the complex cell. 
+@A: BN291 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|Boundary register Debounce_SW3.r_State (in view: work.State_Machine_Top(rtl)) is packed into a complex cell. To disable register packing, set syn_keep=1 on the net between the register and the complex cell. 
+@A: BN291 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|Boundary register Debounce_SW2.r_State (in view: work.State_Machine_Top(rtl)) is packed into a complex cell. To disable register packing, set syn_keep=1 on the net between the register and the complex cell. 
+@A: BN291 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project4\debounce_filter.vhdl":22:8:22:9|Boundary register Debounce_SW1.r_State (in view: work.State_Machine_Top(rtl)) is packed into a complex cell. To disable register packing, set syn_keep=1 on the net between the register and the complex cell. 
+@N: FX1016 :"d:\git\fpga_nandland\gettingstartedwithfpgasbook\project6\project6.vhdl":6:8:6:12|SB_GB_IO inserted on the port i_Clk.
+@N: FX1017 :|SB_GB inserted on the net N_83_i.
+@N: FX1017 :|SB_GB inserted on the net N_36.
+@N: FX1017 :|SB_GB inserted on the net N_38.
+@N: FX1017 :|SB_GB inserted on the net N_40.
+@N: FX1017 :|SB_GB inserted on the net N_42.
+
+Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 139MB peak: 141MB)
+
+
+Finished restoring hierarchy (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 139MB peak: 141MB)
+
+
+
+@S |Clock Optimization Summary
+
+
+#### START OF CLOCK OPTIMIZATION REPORT #####[
+
+1 non-gated/non-generated clock tree(s) driving 163 clock pin(s) of sequential element(s)
+0 gated/generated clock tree(s) driving 0 clock pin(s) of sequential element(s)
+0 instances converted, 0 sequential instances remain driven by gated/generated clocks
+
+=================================== Non-Gated/Non-Generated Clocks ====================================
+Clock Tree ID     Driving Element      Drive Element Type     Fanout     Sample Instance               
+-------------------------------------------------------------------------------------------------------
+@K:CKID0001       i_Clk_ibuf_gb_io     SB_GB_IO               163        Scoreboard.r_Hex_Encoding_i[0]
+=======================================================================================================
+
+
+##### END OF CLOCK OPTIMIZATION REPORT ######]
+
+
+Start Writing Netlists (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 113MB peak: 141MB)
+
+Writing Analyst data base D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synwork\Project6_MemoryGame_m.srm
+
+Finished Writing Netlist Databases (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 139MB peak: 141MB)
+
+Writing EDIF Netlist and constraint files
+@N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\Project6_MemoryGame.edf
+L-2016.09L+ice40
+
+Finished Writing EDIF Netlist and constraint files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 140MB peak: 142MB)
+
+
+Start final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 139MB peak: 142MB)
+
+@N: MT615 |Found clock i_Clk with period 40.00ns 
+
+
+##### START OF TIMING REPORT #####[
+# Timing Report written on Sat Jan 27 21:36:17 2024
+#
+
+
+Top view:               State_Machine_Top
+Requested Frequency:    25.0 MHz
+Wire load mode:         top
+Paths requested:        5
+Constraint File(s):    D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\Go_Board_Clock_Constraint.sdc
+                       
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.
+
+
+
+Performance Summary
+*******************
+
+
+Worst slack in design: 23.468
+
+                   Requested     Estimated     Requested     Estimated                Clock        Clock           
+Starting Clock     Frequency     Frequency     Period        Period        Slack      Type         Group           
+-------------------------------------------------------------------------------------------------------------------
+i_Clk              25.0 MHz      60.5 MHz      40.000        16.532        23.468     declared     default_clkgroup
+===================================================================================================================
+
+
+
+
+
+Clock Relationships
+*******************
+
+Clocks            |    rise  to  rise    |    fall  to  fall   |    rise  to  fall   |    fall  to  rise 
+---------------------------------------------------------------------------------------------------------
+Starting  Ending  |  constraint  slack   |  constraint  slack  |  constraint  slack  |  constraint  slack
+---------------------------------------------------------------------------------------------------------
+i_Clk     i_Clk   |  40.000      23.468  |  No paths    -      |  No paths    -      |  No paths    -    
+=========================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+
+Interface Information 
+*********************
+
+No IO constraint found
+
+
+
+====================================
+Detailed Report for Clock: i_Clk
+====================================
+
+
+
+Starting Points with Worst Slack
+********************************
+
+                             Starting                                             Arrival           
+Instance                     Reference     Type        Pin     Net                Time        Slack 
+                             Clock                                                                  
+----------------------------------------------------------------------------------------------------
+Game_Inst.r_Index[0]         i_Clk         SB_DFF      Q       r_Index[0]         0.540       23.468
+Game_Inst.r_Pattern_0[1]     i_Clk         SB_DFFE     Q       r_Pattern_0[1]     0.540       23.538
+Game_Inst.r_Pattern_1[1]     i_Clk         SB_DFFE     Q       r_Pattern_1[1]     0.540       23.566
+Game_Inst.r_Pattern_0[0]     i_Clk         SB_DFFE     Q       r_Pattern_0[0]     0.540       23.601
+Game_Inst.r_Pattern_2[1]     i_Clk         SB_DFFE     Q       r_Pattern_2[1]     0.540       23.601
+Game_Inst.r_Pattern_1[0]     i_Clk         SB_DFFE     Q       r_Pattern_1[0]     0.540       23.629
+Game_Inst.r_Pattern_3[1]     i_Clk         SB_DFFE     Q       r_Pattern_3[1]     0.540       23.629
+Game_Inst.r_Pattern_2[0]     i_Clk         SB_DFFE     Q       r_Pattern_2[0]     0.540       23.664
+Game_Inst.r_Pattern_3[0]     i_Clk         SB_DFFE     Q       r_Pattern_3[0]     0.540       23.692
+Game_Inst.r_Index[1]         i_Clk         SB_DFF      Q       r_Index[1]         0.540       25.218
+====================================================================================================
+
+
+Ending Points with Worst Slack
+******************************
+
+                                       Starting                                              Required           
+Instance                               Reference     Type        Pin     Net                 Time         Slack 
+                                       Clock                                                                    
+----------------------------------------------------------------------------------------------------------------
+Game_Inst.r_Index[0]                   i_Clk         SB_DFF      D       r_Index             39.895       23.468
+Game_Inst.r_Index[1]                   i_Clk         SB_DFF      D       r_Index_0           39.895       23.559
+Game_Inst.r_Index[2]                   i_Clk         SB_DFF      D       r_Index_1           39.895       23.559
+Game_Inst.r_SM_Main[0]                 i_Clk         SB_DFF      D       N_318_0             39.895       27.009
+Game_Inst.r_SM_Main[2]                 i_Clk         SB_DFF      D       N_322_0             39.895       27.009
+Game_Inst.r_SM_Main[1]                 i_Clk         SB_DFF      D       N_81_i              39.895       27.094
+Game_Inst.Count_Inst.o_Toggle          i_Clk         SB_DFF      D       o_Toggle            39.895       30.411
+Game_Inst.Count_Inst.r_Counter[4]      i_Clk         SB_DFFE     D       r_Counter_3[4]      39.895       30.474
+Game_Inst.Count_Inst.r_Counter[9]      i_Clk         SB_DFFE     D       r_Counter_3[9]      39.895       30.474
+Game_Inst.Count_Inst.r_Counter[10]     i_Clk         SB_DFFE     D       r_Counter_3[10]     39.895       30.474
+================================================================================================================
+
+
+
+Worst Path Information
+***********************
+
+
+Path information for path number 1: 
+      Requested Period:                      40.000
+    - Setup time:                            0.105
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         39.895
+
+    - Propagation time:                      16.427
+    - Clock delay at starting point:         0.000 (ideal)
+    = Slack (critical) :                     23.468
+
+    Number of logic level(s):                8
+    Starting point:                          Game_Inst.r_Index[0] / Q
+    Ending point:                            Game_Inst.r_Index[0] / D
+    The start point is clocked by            i_Clk [rising] on pin C
+    The end   point is clocked by            i_Clk [rising] on pin C
+
+Instance / Net                                    Pin      Pin               Arrival     No. of    
+Name                                  Type        Name     Dir     Delay     Time        Fan Out(s)
+---------------------------------------------------------------------------------------------------
+Game_Inst.r_Index[0]                  SB_DFF      Q        Out     0.540     0.540       -         
+r_Index[0]                            Net         -        -       1.599     -           13        
+Game_Inst.r_Pattern_0_RNIFS911[1]     SB_LUT4     I0       In      -         2.139       -         
+Game_Inst.r_Pattern_0_RNIFS911[1]     SB_LUT4     O        Out     0.449     2.588       -         
+r_Pattern_0_RNIFS911[1]               Net         -        -       1.371     -           1         
+Game_Inst.r_Index_RNIHD922[1]         SB_LUT4     I2       In      -         3.959       -         
+Game_Inst.r_Index_RNIHD922[1]         SB_LUT4     O        Out     0.379     4.338       -         
+un6_r_button_dv_7_i_m2_ns_1[1]        Net         -        -       1.371     -           1         
+Game_Inst.r_Index_RNIRNF03[2]         SB_LUT4     I1       In      -         5.708       -         
+Game_Inst.r_Index_RNIRNF03[2]         SB_LUT4     O        Out     0.400     6.108       -         
+N_16                                  Net         -        -       1.371     -           5         
+Game_Inst.r_Button_ID_RNIRM4R6[0]     SB_LUT4     I2       In      -         7.479       -         
+Game_Inst.r_Button_ID_RNIRM4R6[0]     SB_LUT4     O        Out     0.379     7.858       -         
+N_128                                 Net         -        -       1.371     -           2         
+Game_Inst.r_Button_DV_RNI62R37        SB_LUT4     I1       In      -         9.229       -         
+Game_Inst.r_Button_DV_RNI62R37        SB_LUT4     O        Out     0.400     9.629       -         
+N_130                                 Net         -        -       1.371     -           3         
+Game_Inst.r_SM_Main_RNIGERD7[0]       SB_LUT4     I2       In      -         11.000      -         
+Game_Inst.r_SM_Main_RNIGERD7[0]       SB_LUT4     O        Out     0.351     11.350      -         
+N_346                                 Net         -        -       1.371     -           2         
+Game_Inst.r_Index_RNO_0[0]            SB_LUT4     I1       In      -         12.721      -         
+Game_Inst.r_Index_RNO_0[0]            SB_LUT4     O        Out     0.379     13.100      -         
+SUM_i_i_0_tz[0]                       Net         -        -       1.371     -           1         
+Game_Inst.r_Index_RNO[0]              SB_LUT4     I0       In      -         14.471      -         
+Game_Inst.r_Index_RNO[0]              SB_LUT4     O        Out     0.449     14.920      -         
+r_Index                               Net         -        -       1.507     -           1         
+Game_Inst.r_Index[0]                  SB_DFF      D        In      -         16.427      -         
+===================================================================================================
+Total path delay (propagation time + setup) of 16.532 is 3.829(23.2%) logic and 12.703(76.8%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+
+##### END OF TIMING REPORT #####]
+
+Timing exceptions that could not be applied
+None
+
+Finished final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 140MB peak: 142MB)
+
+
+Finished timing report (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 140MB peak: 142MB)
+
+---------------------------------------
+Resource Usage Report for State_Machine_Top 
+
+Mapping to part: ice40hx1kvq100
+Cell usage:
+GND             8 uses
+SB_CARRY        88 uses
+SB_DFF          48 uses
+SB_DFFE         43 uses
+SB_DFFSR        72 uses
+SB_GB           5 uses
+VCC             8 uses
+SB_LUT4         221 uses
+
+I/O ports: 16
+I/O primitives: 16
+SB_GB_IO       1 use
+SB_IO          15 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   163 (12%)
+Total load per clock:
+   i_Clk: 1
+
+@S |Mapping Summary:
+Total  LUTs: 221 (17%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 221 = 221 
+
+Mapper successful!
+
+At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 28MB peak: 142MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jan 27 21:36:17 2024
+
+###########################################################]
+
+
+Synthesis exit by 0.
+Current Implementation Project6_MemoryGame_Implmnt its sbt path: D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt
+Synthesis succeed.
+Synthesis succeeded.
+Synthesis runtime 4 seconds
+
+
+"C:/lscc/iCEcube2.2020.12/sbt_backend/bin/win32/opt\edifparser.exe" "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/Project6_MemoryGame.edf " "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist" "-pVQ100" "-yD:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf " -c --devicename iCE40HX1K
+starting edif parserrunning edif parserLattice Semiconductor Corporation  Edif Parser
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 17:30:22
+
+Parsing edif file: D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/Project6_MemoryGame.edf...
+Parsing constraint file: D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf ...
+Warning: pin o_Segment1_A doesn't exist in the design netlist.ignoring the set_io command on line 17 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_Segment1_B doesn't exist in the design netlist.ignoring the set_io command on line 18 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_Segment1_C doesn't exist in the design netlist.ignoring the set_io command on line 19 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_Segment1_D doesn't exist in the design netlist.ignoring the set_io command on line 20 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_Segment1_E doesn't exist in the design netlist.ignoring the set_io command on line 21 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_Segment1_F doesn't exist in the design netlist.ignoring the set_io command on line 22 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_Segment1_G doesn't exist in the design netlist.ignoring the set_io command on line 23 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin i_UART_RX doesn't exist in the design netlist.ignoring the set_io command on line 32 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_UART_TX doesn't exist in the design netlist.ignoring the set_io command on line 33 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_HSync doesn't exist in the design netlist.ignoring the set_io command on line 35 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_VSync doesn't exist in the design netlist.ignoring the set_io command on line 36 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Red_0 doesn't exist in the design netlist.ignoring the set_io command on line 37 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Red_1 doesn't exist in the design netlist.ignoring the set_io command on line 38 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Red_2 doesn't exist in the design netlist.ignoring the set_io command on line 39 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Grn_0 doesn't exist in the design netlist.ignoring the set_io command on line 40 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Grn_1 doesn't exist in the design netlist.ignoring the set_io command on line 41 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Grn_2 doesn't exist in the design netlist.ignoring the set_io command on line 42 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Blu_0 doesn't exist in the design netlist.ignoring the set_io command on line 43 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Blu_1 doesn't exist in the design netlist.ignoring the set_io command on line 44 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin o_VGA_Blu_2 doesn't exist in the design netlist.ignoring the set_io command on line 45 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_1 doesn't exist in the design netlist.ignoring the set_io command on line 47 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_2 doesn't exist in the design netlist.ignoring the set_io command on line 48 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_3 doesn't exist in the design netlist.ignoring the set_io command on line 49 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_4 doesn't exist in the design netlist.ignoring the set_io command on line 50 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_7 doesn't exist in the design netlist.ignoring the set_io command on line 51 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_8 doesn't exist in the design netlist.ignoring the set_io command on line 52 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_9 doesn't exist in the design netlist.ignoring the set_io command on line 53 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+Warning: pin io_PMOD_10 doesn't exist in the design netlist.ignoring the set_io command on line 54 of file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf 
+parse file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/Go_Board_Pin_Constraints.pcf  error. But they are ignored
+start to read sdc/scf file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/Project6_MemoryGame.scf
+sdc_reader OK D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/Project6_MemoryGame.scf
+Stored edif netlist at D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top...
+
+write Timing Constraint to D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt/Temp/sbt_temp.sdc
+
+EDIF Parser succeeded
+Top module is: State_Machine_Top
+
+EDF Parser run-time: 4 (sec)
+edif parser succeed.
+
+
+"C:/lscc/iCEcube2.2020.12/sbt_backend/bin/win32/opt\sbtplacer.exe" --des-lib "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top" --outdir "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer" --device-file "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" --package VQ100 --deviceMarketName iCE40HX1K --sdc-file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\Temp/sbt_temp.sdc" --lib-file "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ice40HX1K.lib" --effort_level std --out-sdc-file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer\State_Machine_Top_pl.sdc"
+starting placerrunning placerExecuting : C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\sbtplacer.exe --des-lib D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top --outdir D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer --device-file C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev --package VQ100 --deviceMarketName iCE40HX1K --sdc-file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\Temp/sbt_temp.sdc --lib-file C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ice40HX1K.lib --effort_level std --out-sdc-file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer\State_Machine_Top_pl.sdc
+Lattice Semiconductor Corporation  Placer
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 17:55:52
+
+I2004: Option and Settings Summary
+=============================================================
+Device file          - C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev
+Package              - VQ100
+Design database      - D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top
+SDC file             - D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\Temp/sbt_temp.sdc
+Output directory     - D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer
+Timing library       - C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ice40HX1K.lib
+Effort level         - std
+
+I2050: Starting reading inputs for placer
+=============================================================
+I2100: Reading design library: D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top/BFPGA_DESIGN_ep
+I2065: Reading device file : C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev
+I2051: Reading of inputs for placer completed successfully
+
+I2053: Starting placement of the design
+=============================================================
+
+Input Design Statistics
+    Number of LUTs      	:	221
+    Number of DFFs      	:	163
+    Number of DFFs packed to IO	:	0
+    Number of Carrys    	:	88
+    Number of RAMs      	:	0
+    Number of ROMs      	:	0
+    Number of IOs       	:	15
+    Number of GBIOs     	:	1
+    Number of GBs       	:	5
+    Number of WarmBoot  	:	0
+    Number of PLLs      	:	0
+
+
+Phase 1
+I2077: Start design legalization
+
+Design Legalization Statistics
+    Number of feedthru LUTs inserted to legalize input of DFFs     	:	46
+    Number of feedthru LUTs inserted for LUTs driving multiple DFFs	:	0
+    Number of LUTs replicated for LUTs driving multiple DFFs       	:	0
+    Number of feedthru LUTs inserted to legalize output of CARRYs  	:	1
+    Number of feedthru LUTs inserted to legalize global signals    	:	0
+    Number of feedthru CARRYs inserted to legalize input of CARRYs 	:	0
+    Number of inserted LUTs to Legalize IOs with PIN_TYPE= 01xxxx  	:	0
+    Number of inserted LUTs to Legalize IOs with PIN_TYPE= 10xxxx  	:	0
+    Number of inserted LUTs to Legalize IOs with PIN_TYPE= 11xxxx  	:	0
+    Total LUTs inserted                                            	:	47
+    Total CARRYs inserted                                          	:	0
+
+
+I2078: Design legalization is completed successfully
+I2088: Phase 1, elapsed time : 0.0 (sec)
+
+
+Phase 2
+I2088: Phase 2, elapsed time : 0.0 (sec)
+
+Phase 3
+
+Design Statistics after Packing
+    Number of LUTs      	:	268
+    Number of DFFs      	:	163
+    Number of DFFs packed to IO	:	0
+    Number of Carrys    	:	88
+
+Device Utilization Summary after Packing
+    Sequential LogicCells
+        LUT and DFF      	:	83
+        LUT, DFF and CARRY	:	80
+    Combinational LogicCells
+        Only LUT         	:	102
+        CARRY Only       	:	5
+        LUT with CARRY   	:	3
+    LogicCells                  :	273/1280
+    PLBs                        :	42/160
+    BRAMs                       :	0/16
+    IOs and GBIOs               :	16/72
+    PLLs                        :	0/0
+
+
+I2088: Phase 3, elapsed time : 0.2 (sec)
+
+Phase 4
+I2088: Phase 4, elapsed time : 0.0 (sec)
+
+Phase 5
+I2088: Phase 5, elapsed time : 0.1 (sec)
+
+Phase 6
+I2088: Phase 6, elapsed time : 8.5 (sec)
+
+Final Design Statistics
+    Number of LUTs      	:	268
+    Number of DFFs      	:	163
+    Number of DFFs packed to IO	:	0
+    Number of Carrys    	:	88
+    Number of RAMs      	:	0
+    Number of ROMs      	:	0
+    Number of IOs       	:	15
+    Number of GBIOs     	:	1
+    Number of GBs       	:	5
+    Number of WarmBoot  	:	0
+    Number of PLLs      	:	0
+
+Device Utilization Summary
+    LogicCells                  :	273/1280
+    PLBs                        :	62/160
+    BRAMs                       :	0/16
+    IOs and GBIOs               :	16/72
+    PLLs                        :	0/0
+
+
+
+#####################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+=====================================================================
+
+#####################################################################
+                     Clock Summary 
+=====================================================================
+Number of clocks: 1
+Clock: i_Clk | Frequency: 115.50 MHz | Target: 25.00 MHz
+
+=====================================================================
+                     End of Clock Summary
+#####################################################################
+
+I2054: Placement of design completed successfully
+
+I2076: Placer run-time: 9.1 sec.
+
+placer succeed.
+starting IPExporterrunning IPExporterIPExporter succeed.
+
+
+"C:/lscc/iCEcube2.2020.12/sbt_backend/bin/win32/opt\packer.exe" "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top" --package VQ100 --outdir "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\packer" --DRC_only  --translator "C:\lscc\iCEcube2.2020.12\sbt_backend\bin\sdc_translator.tcl" --src_sdc_file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer\State_Machine_Top_pl.sdc" --dst_sdc_file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\packer\State_Machine_Top_pk.sdc" --devicename iCE40HX1K
+starting packerrunning packerLattice Semiconductor Corporation  Packer
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 17:32:13
+
+Begin Packing...
+initializing finish
+Total HPWL cost is 567
+used logic cells: 273
+Design Rule Checking Succeeded
+
+DRC Checker run-time: 0 (sec)
+packer succeed.
+
+
+"C:/lscc/iCEcube2.2020.12/sbt_backend/bin/win32/opt\packer.exe" "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top" --package VQ100 --outdir "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\packer" --translator "C:\lscc\iCEcube2.2020.12\sbt_backend\bin\sdc_translator.tcl" --src_sdc_file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer\State_Machine_Top_pl.sdc" --dst_sdc_file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\packer\State_Machine_Top_pk.sdc" --devicename iCE40HX1K
+starting packerrunning packerLattice Semiconductor Corporation  Packer
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 17:32:13
+
+Begin Packing...
+initializing finish
+Total HPWL cost is 567
+used logic cells: 273
+Translating sdc file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\placer\State_Machine_Top_pl.sdc...
+Translated sdc file is D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\packer\State_Machine_Top_pk.sdc
+Packer succeeded
+
+Packer run-time: 0 (sec)
+packer succeed.
+
+
+"C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\sbrouter.exe" "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top" "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ice40HX1K.lib" "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\outputs\packer\State_Machine_Top_pk.sdc" --outdir "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\outputs\router" --sdf_file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\simulation_netlist\State_Machine_Top_sbt.sdf" --pin_permutation
+starting routerrunning routerSJRouter....
+Executing : C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\sbrouter.exe C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ice40HX1K.lib D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\outputs\packer\State_Machine_Top_pk.sdc --outdir D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\outputs\router --sdf_file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\simulation_netlist\State_Machine_Top_sbt.sdf --pin_permutation 
+Lattice Semiconductor Corporation  Router
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 17:44:15
+
+I1203: Reading Design State_Machine_Top
+Read design time: 0
+I1202: Reading Architecture of device iCE40HX1K
+Read device time: 1
+I1209: Started routing
+I1223: Total Nets : 380 
+I1212: Iteration  1 :    53 unrouted : 0 seconds
+I1212: Iteration  2 :     6 unrouted : 0 seconds
+I1212: Iteration  3 :     0 unrouted : 0 seconds
+I1215: Routing is successful
+Routing time: 0
+I1206: Completed routing
+I1204: Writing Design State_Machine_Top
+Lib Closed
+I1210: Writing routes
+I1218: Exiting the router
+I1224: Router run-time : 1 seconds
+router succeed.
+
+"C:/lscc/iCEcube2.2020.12/sbt_backend/bin/win32/opt\netlister.exe" --verilog "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\simulation_netlist\State_Machine_Top_sbt.v" --vhdl "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/sbt/outputs/simulation_netlist\State_Machine_Top_sbt.vhd" --lib "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top" --view rt --device "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" --splitio  --in-sdc-file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\packer\State_Machine_Top_pk.sdc" --out-sdc-file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\netlister\State_Machine_Top_sbt.sdc"
+starting netlistrunning netlistLattice Semiconductor Corporation  Verilog & VHDL Netlister
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 18:18:39
+
+Generating Verilog & VHDL netlist files ...
+Writing D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\simulation_netlist\State_Machine_Top_sbt.v
+Writing D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/sbt/outputs/simulation_netlist\State_Machine_Top_sbt.vhd
+Netlister succeeded.
+
+Netlister run-time: 1 (sec)
+netlist succeed.
+
+
+"C:/lscc/iCEcube2.2020.12/sbt_backend/bin/win32/opt\sbtimer.exe" --des-lib "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top" --lib-file "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ice40HX1K.lib" --sdc-file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\netlister\State_Machine_Top_sbt.sdc" --sdf-file "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\simulation_netlist\State_Machine_Top_sbt.sdf" --report-file "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\outputs\timer\State_Machine_Top_timing.rpt" --device-file "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" --timing-summary
+starting timerrunning timerExecuting : C:\lscc\iCEcube2.2020.12\sbt_backend\bin\win32\opt\sbtimer.exe --des-lib D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top --lib-file C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ice40HX1K.lib --sdc-file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\netlister\State_Machine_Top_sbt.sdc --sdf-file D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\simulation_netlist\State_Machine_Top_sbt.sdf --report-file D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\sbt\outputs\timer\State_Machine_Top_timing.rpt --device-file C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev --timing-summary
+Lattice Semiconductor Corporation  Timer
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 17:41:47
+
+Timer run-time: 1 seconds
+timer succeed.
+timer succeeded.
+
+
+"C:/lscc/iCEcube2.2020.12/sbt_backend/bin/win32/opt\bitmap.exe" "C:\lscc\iCEcube2.2020.12\sbt_backend\devices\ICE40P01.dev" --design "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\netlist\oadb-State_Machine_Top" --device_name iCE40HX1K --package VQ100 --outdir "D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt\sbt\outputs\bitmap" --low_power on --init_ram on --init_ram_bank 1111 --frequency low --warm_boot on
+starting bitmaprunning bitmapLattice Semiconductor Corporation  Bit Stream Generator
+Release:        2020.12.27943
+Build Date:     Dec  9 2020 18:17:40
+
+Bit Stream File Size: 257720 (251K 696 Bits)
+Bit Stream Generator succeeded
+
+Bitmap run-time: 1 (sec)
+bitmap succeed.
+21:44:19

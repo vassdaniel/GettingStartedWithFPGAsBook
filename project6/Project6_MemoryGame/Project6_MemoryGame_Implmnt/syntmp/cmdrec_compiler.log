@@ -1,0 +1,12 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synwork\Project6_MemoryGame_comp.srs  -hdllog  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synlog\Project6_MemoryGame_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\LFSR_22.vhdl -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl -lib work D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl 
+rc:0 success:1 runtime:1
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synwork\Project6_MemoryGame_comp.srs|io:o|time:1706387774|size:13350|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synlog\Project6_MemoryGame_compiler.srr|io:o|time:1706387774|size:4753|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl|io:i|time:1706387696|size:3542|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Binary_To_7Segment.vhdl|io:i|time:1706367733|size:2751|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl|io:i|time:1706387769|size:7160|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\LFSR_22.vhdl|io:i|time:1706387102|size:706|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project5\count_and_toggle.vhdl|io:i|time:1705770914|size:964|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project4\Debounce_Filter.vhdl|io:i|time:1705431607|size:922|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1699113081|size:1338368|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1699113082|size:1754112|exec:1

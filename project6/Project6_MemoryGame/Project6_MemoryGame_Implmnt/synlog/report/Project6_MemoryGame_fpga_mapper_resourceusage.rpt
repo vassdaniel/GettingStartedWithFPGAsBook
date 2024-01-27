@@ -1,0 +1,28 @@
+---------------------------------------
+Resource Usage Report for State_Machine_Top 
+
+Mapping to part: ice40hx1kvq100
+Cell usage:
+GND             8 uses
+SB_CARRY        88 uses
+SB_DFF          48 uses
+SB_DFFE         43 uses
+SB_DFFSR        72 uses
+SB_GB           5 uses
+VCC             8 uses
+SB_LUT4         221 uses
+
+I/O ports: 16
+I/O primitives: 16
+SB_GB_IO       1 use
+SB_IO          15 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   163 (12%)
+
+@S |Mapping Summary:
+Total  LUTs: 221 (17%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 221 = 221 
+

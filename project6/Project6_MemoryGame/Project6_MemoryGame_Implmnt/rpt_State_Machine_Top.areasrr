@@ -1,0 +1,241 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX1KVQ100 (Lattice)
+
+---------------------------------------------------------------------------------
+########   Utilization report for  Top level view:   State_Machine_Top   ########
+=================================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     163                100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Top:	163 (31.90 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       221                100 %                
+CARRYS     88                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Top:	309 (60.47 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     21                 100 %                
+=================================================
+Total IO PADS in the block State_Machine_Top:	21 (4.11 % Utilization)
+
+------------------------------------------------------------------------
+########   Utilization report for  cell:   Binary_To_7Segment   ########
+Instance path:   State_Machine_Top.Binary_To_7Segment                   
+========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     7                  4.29 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Top.Binary_To_7Segment:	7 (1.37 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     8                  3.62 %               
+=================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Top.Binary_To_7Segment:	8 (1.57 % Utilization)
+
+---------------------------------------------------------------------
+########   Utilization report for  cell:   Debounce_Filter   ########
+Instance path:   State_Machine_Top.Debounce_Filter                   
+=====================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     19                 11.7 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Top.Debounce_Filter:	19 (3.72 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       27                 12.2 %               
+CARRYS     16                 18.2 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Top.Debounce_Filter:	43 (8.41 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  4.76 %               
+=================================================
+Total IO PADS in the block State_Machine_Top.Debounce_Filter:	1 (0.20 % Utilization)
+
+-----------------------------------------------------------------------
+########   Utilization report for  cell:   Debounce_Filter_0   ########
+Instance path:   State_Machine_Top.Debounce_Filter_0                   
+=======================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     19                 11.7 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Top.Debounce_Filter_0:	19 (3.72 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       27                 12.2 %               
+CARRYS     16                 18.2 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Top.Debounce_Filter_0:	43 (8.41 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  4.76 %               
+=================================================
+Total IO PADS in the block State_Machine_Top.Debounce_Filter_0:	1 (0.20 % Utilization)
+
+-----------------------------------------------------------------------
+########   Utilization report for  cell:   Debounce_Filter_1   ########
+Instance path:   State_Machine_Top.Debounce_Filter_1                   
+=======================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     19                 11.7 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Top.Debounce_Filter_1:	19 (3.72 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       27                 12.2 %               
+CARRYS     16                 18.2 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Top.Debounce_Filter_1:	43 (8.41 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  4.76 %               
+=================================================
+Total IO PADS in the block State_Machine_Top.Debounce_Filter_1:	1 (0.20 % Utilization)
+
+-----------------------------------------------------------------------
+########   Utilization report for  cell:   Debounce_Filter_2   ########
+Instance path:   State_Machine_Top.Debounce_Filter_2                   
+=======================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     19                 11.7 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Top.Debounce_Filter_2:	19 (3.72 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       27                 12.2 %               
+CARRYS     16                 18.2 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Top.Debounce_Filter_2:	43 (8.41 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  4.76 %               
+=================================================
+Total IO PADS in the block State_Machine_Top.Debounce_Filter_2:	1 (0.20 % Utilization)
+
+------------------------------------------------------------------------
+########   Utilization report for  cell:   State_Machine_Game   ########
+Instance path:   State_Machine_Top.State_Machine_Game                   
+========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     80                 49.1 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Top.State_Machine_Game:	80 (15.66 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       105                47.5 %               
+CARRYS     24                 27.3 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Top.State_Machine_Game:	129 (25.24 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  4.76 %               
+=================================================
+Total IO PADS in the block State_Machine_Top.State_Machine_Game:	1 (0.20 % Utilization)
+
+-------------------------------------------------------------
+########   Utilization report for  cell:   LFSR_22   ########
+Instance path:   State_Machine_Game.LFSR_22                  
+=============================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     22                 13.5 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Game.LFSR_22:	22 (4.31 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     1                  0.4520 %             
+=================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Game.LFSR_22:	1 (0.20 % Utilization)
+
+----------------------------------------------------------------------
+########   Utilization report for  cell:   count_and_toggle   ########
+Instance path:   State_Machine_Game.count_and_toggle                  
+======================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     24                 14.7 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block State_Machine_Game.count_and_toggle:	24 (4.70 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       33                 14.9 %               
+CARRYS     21                 23.9 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block State_Machine_Game.count_and_toggle:	54 (10.57 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+

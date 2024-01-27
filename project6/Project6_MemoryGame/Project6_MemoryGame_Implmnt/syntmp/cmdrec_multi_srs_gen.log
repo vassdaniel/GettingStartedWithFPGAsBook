@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synwork\Project6_MemoryGame_comp.srs  -osyn  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synwork\Project6_MemoryGame_mult.srs  -log  D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synlog\Project6_MemoryGame_multi_srs_gen.srr 
+rc:0 success:1 runtime:1
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synwork\Project6_MemoryGame_comp.srs|io:i|time:1706387774|size:13350|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synwork\Project6_MemoryGame_mult.srs|io:o|time:1706387776|size:4240|exec:0
+file:D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\Project6_MemoryGame\Project6_MemoryGame_Implmnt\synlog\Project6_MemoryGame_multi_srs_gen.srr|io:o|time:1706387776|size:737|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1699113082|size:3128320|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1699113083|size:3947520|exec:1

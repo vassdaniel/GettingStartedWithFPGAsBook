@@ -1,0 +1,2 @@
+
+: 0 work.State_Machine_Top "D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\project6.vhdl" 4 7 work.Binary_To_7Segment work.State_Machine_Game work.Debounce_Filter work.Debounce_Filter work.Debounce_Filter work.Debounce_Filter 

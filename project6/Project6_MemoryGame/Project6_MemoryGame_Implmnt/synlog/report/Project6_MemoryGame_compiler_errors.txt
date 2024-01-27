@@ -1,0 +1,2 @@
+@E: CD871 :"D:\Git\FPGA_NANDLAND\GettingStartedWithFPGAsBook\project6\State_Machine_Game.vhdl":56:28:56:34|Invalid range. Left side has null integer range.
+

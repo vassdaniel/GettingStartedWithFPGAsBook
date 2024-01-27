@@ -1,0 +1,18 @@
+
+fsm_encoding {12458451} sequential
+
+fsm_state_encoding {12458451} start {000}
+
+fsm_state_encoding {12458451} pattern_off {001}
+
+fsm_state_encoding {12458451} pattern_show {010}
+
+fsm_state_encoding {12458451} wait_player {011}
+
+fsm_state_encoding {12458451} incr_score {100}
+
+fsm_state_encoding {12458451} loser {101}
+
+fsm_state_encoding {12458451} winner {110}
+
+fsm_registers {12458451} {r_SM_Main[2]}  {r_SM_Main[1]}  {r_SM_Main[0]} 

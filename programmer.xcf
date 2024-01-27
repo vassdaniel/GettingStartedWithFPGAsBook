@@ -17,9 +17,9 @@
 				<BScanLen>1</BScanLen>
 				<BScanVal>0</BScanVal>
 			</Bypass>
-			<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project3/Project3_LED_Toggle/Project3_LED_Toggle_Implmnt/sbt/outputs/bitmap/LED_Toggle_bitmap.bin</File>
-			<FileTime>11/26/23 12:05:05</FileTime>
-			<JedecChecksum>0xAD48</JedecChecksum>
+			<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/sbt/outputs/bitmap/State_Machine_Top_bitmap.bin</File>
+			<FileTime>01/27/24 21:36:38</FileTime>
+			<JedecChecksum>0xC36B</JedecChecksum>
 			<Operation>SPI Flash Erase,Program,Verify</Operation>
 			<Option>
 				<SVFVendor>JTAG STANDARD</SVFVendor>
@@ -61,7 +61,7 @@
 					<IDCode>0x10</IDCode>
 					<Package>8-pin SOIC</Package>
 					<Operation>SPI Flash Erase,Program,Verify</Operation>
-					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project3/Project3_LED_Toggle/Project3_LED_Toggle_Implmnt/sbt/outputs/bitmap/LED_Toggle_bitmap.bin</File>
+					<File>D:/Git/FPGA_NANDLAND/GettingStartedWithFPGAsBook/project6/Project6_MemoryGame/Project6_MemoryGame_Implmnt/sbt/outputs/bitmap/State_Machine_Top_bitmap.bin</File>
 					<AddressBase>0x00000000</AddressBase>
 					<EndAddress>0x00008000</EndAddress>
 					<DeviceSize>1</DeviceSize>
